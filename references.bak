@@ -1,0 +1,1075 @@
+@article{luberti2021,
+  title={Design and testing of a rig to investigate buoyancy-induced heat transfer in aero-engine compressor rotors},
+  author={Luberti, Dario and Patinios, Marios and Jackson, Richard W and Tang, Hui and Pountney, Oliver J and Scobie, James A and Sangan, Carl M and Owen, J Michael and Lock, Gary D},
+  journal={Journal of Engineering for Gas Turbines and Power},
+  volume={143},
+  number={4},
+  pages={041030},
+  year={2021},
+  publisher={American Society of Mechanical Engineers}
+}
+
+@article{jackson2021,
+  title={Measurement and analysis of buoyancy-induced heat transfer in aero-engine compressor rotors},
+  author={Jackson, Richard W and Luberti, Dario and Tang, Hui and Pountney, Oliver J and Scobie, James A and Sangan, Carl M and Owen, J Michael and Lock, Gary D},
+  journal={Journal of Engineering for Gas Turbines and Power},
+  volume={143},
+  number={6},
+  pages={061004},
+  year={2021},
+  publisher={American Society of Mechanical Engineers}
+}
+
+@article{sun2022,
+  title={Large eddy simulation investigation of low Rossby number buoyant flow in rotating cavities},
+  author={Sun, Zixiang and Gao, Feng and Chew, John W and Amirante, Dario},
+  journal={Journal of engineering for gas turbines and power},
+  volume={144},
+  number={12},
+  pages={121023},
+  year={2022},
+  publisher={American Society of Mechanical Engineers}
+}
+
+@article{yeranee2021,
+  title={A review of recent studies on rotating internal cooling for gas turbine blades},
+  author={Yeranee, Kirttayoth and Yu, RAO},
+  journal={Chinese Journal of Aeronautics},
+  volume={34},
+  number={7},
+  pages={85--113},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{coletti2014,
+  title={Turbulent flow in rib-roughened channel under the effect of Coriolis and rotational buoyancy forces},
+  author={Coletti, Filippo and Jacono, David Lo and Cresci, Irene and Arts, Tony},
+  journal={Physics of fluids},
+  volume={26},
+  number={4},
+  year={2014},
+  publisher={AIP Publishing}
+}
+
+@article{coletti2012,
+  title={Flow field investigation in rotating rib-roughened channel by means of particle image velocimetry},
+  author={Coletti, Filippo and Maurer, Thomas and Arts, Tony and Di Sante, Alberto},
+  journal={Experiments in fluids},
+  volume={52},
+  pages={1043--1061},
+  year={2012},
+  publisher={Springer}
+}
+
+@article{visscher2011,
+  title={A new set-up for PIV measurements in rotating turbulent duct flows},
+  author={Visscher, Jan and Andersson, Helge I and Barri, Mustafa and Didelle, Henri and Viboud, Samuel and Sous, Damien and Sommeria, Jo{\"e}l},
+  journal={Flow measurement and instrumentation},
+  volume={22},
+  number={1},
+  pages={71--80},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{saini2021,
+  title={Large-eddy simulations of high Rossby number flow in the high-pressure compressor inter-disk cavity},
+  author={Saini, Deepak and Sandberg, Richard D},
+  journal={Journal of Turbomachinery},
+  volume={143},
+  number={11},
+  pages={111002},
+  year={2021},
+  publisher={American Society of Mechanical Engineers}
+}
+
+@article{liou2007,
+  title={High rotation number heat transfer of a 45 rib-roughened rectangular duct with two channel orientations},
+  author={Liou, TM and Chang, SW and Hung, JH and Chiou, SF},
+  journal={International Journal of Heat and Mass Transfer},
+  volume={50},
+  number={19-20},
+  pages={4063--4078},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{morris1996,
+  title={A rotating facility to study heat transfer in the cooling passages of turbine rotor blades},
+  author={Morris, WD},
+  journal={Proceedings of the Institution of Mechanical Engineers, Part A: Journal of Power and Energy},
+  volume={210},
+  number={1},
+  pages={55--63},
+  year={1996},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@inproceedings{atkins2014,
+  title={Flow in a rotating cavity with axial throughflow at engine representative conditions},
+  author={Atkins, Nicholas R and Kanjirakkad, Vasudevan},
+  booktitle={Turbo Expo: Power for Land, Sea, and Air},
+  volume={45738},
+  pages={V05CT16A041},
+  year={2014},
+  organization={American Society of Mechanical Engineers}
+}
+
+@article{yang2020,
+  title = {Mean flow scaling in a spanwise rotating channel},
+  author = {Yang, X. I. A. and Xia, Z.-H. and Lee, J. and Lv, Y. and Yuan, J.},
+  journal = {Phys. Rev. Fluids},
+  volume = {5},
+  issue = {7},
+  pages = {074603},
+  year = {2020},
+}
+
+@article{wray1990minimal,
+  title={Minimal storage time advancement schemes for spectral methods},
+  author={Wray, A.A.},
+  journal={NASA Ames Research Center, California, Report No. MS},
+  volume={202},
+  year={1990}
+}
+
+@article{sirovich1987,
+	title={Turbulence and the dynamics of coherent structures. I. Coherent structures},
+	author={Sirovich, L.},
+	journal={Quart.~Appl.~Math.},
+	volume={45},
+	pages={561--571},
+	year={1987}
+}
+
+@inproceedings{souverein2009,
+  title={Effect of interaction strength on the unsteady behavior of shock wave boundary layer interactions},
+  author={Souverein, L. and Dupont, P. and Debi{\`e}ve, J.-F. and Dussauge, J.-P. and van Oudheusden, B. and Scarano, F.},
+  booktitle={39th AIAA Fluid Dynamics Conference},
+  year={2009}
+}
+
+@article{clemensARFM,
+  title={Low-frequency unsteadiness of shock wave/turbulent boundary layer interactions},
+  author={Clemens, N.T. and Narayanaswamy, V.},
+  journal={Annu.~Rev.~Fluid~Mech.},
+  volume={46},
+  pages={469--492},
+  year={2014} 
+}
+
+@article{dussauge2006,
+  title={Unsteadiness in shock wave boundary layer interactions with separation},
+  author={Dussauge, J.-P. and Dupont, P. and Debi{\`e}ve, J.-F.},
+  journal={Aero.~Sci.~Tech.},
+  volume={10},
+  pages={85--91},
+  year={2006} 
+}
+
+@article{ganapathisubramani2007,
+  title={Effects of upstream boundary layer on the unsteadiness of shock-induced separation},
+  author={Ganapathisubramani, B. and Clemens, N.T. and Dolling, D.S.},
+  journal={Journal of fluid Mechanics},
+  volume={585},
+  pages={369--394},
+  year={2007} 
+}
+
+
+@article{ganapathisubramani2009,
+  title={Low-frequency dynamics of shock-induced separation in a compression ramp interaction},
+  author={Ganapathisubramani, B. and Clemens, N.T. and Dolling, D.S.},
+  journal={J.~Fluid~Mech.},
+  volume={636},
+  pages={397--425},
+  year={2009},
+  publisher={Cambridge University Press}
+}
+
+
+@article{humble2009,
+  title={Three-dimensional instantaneous structure of a shock wave/turbulent boundary layer interaction},
+  author={Humble, R.A. and Elsinga, G.E. and Scarano, F. and Van Oudheusden, B.W.},
+  journal={J.~Fluid~Mech.},
+  volume={622},
+  pages={33--62},
+  year={2009},
+  publisher={Cambridge University Press}
+}
+
+
+@article{pasquariello2017,
+  title={Unsteady effects of strong shock-wave/boundary-layer interaction at high {R}eynolds number},
+  author={Pasquariello, V. and Hickel, S. and Adams, N.A.},
+  journal={J.~Fluid~Mech.},
+  volume={823},
+  pages={617--657},
+  year={2017},
+  publisher={Cambridge University Press}
+}
+
+
+@article{AdlerARFM,
+  author={Gaitonde, D.V. and Adler, M.C.},
+  title = {Dynamics of Three-Dimensional Shock-Wave/Boundary-Layer Interactions},
+  volume = {55},
+  year = {2023},
+  journal={Annu.~Rev.~Fluid~Mech.},
+}
+
+@article{priebe2016,
+  title={Low-frequency dynamics in a shock-induced separated flow},
+  author={Priebe, S. and Tu, J.H. and Rowley, C.W. and Mart{\'\i}n, M. Pino},
+  journal={J.~Fluid~Mech.},
+  volume={807},
+  pages={441--477},
+  year={2016},
+  publisher={Cambridge University Press}
+}
+
+@article{pirozzoli2010,
+  title={Generalized conservative approximations of split convective derivative operators},
+  author={Pirozzoli, S.},
+  journal={Journal of Computational Physics},
+  volume={229},
+  pages={7180--7190},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{trettel2016mean,
+  title={Mean velocity scaling for compressible wall turbulence with heat transfer},
+  author={Trettel, A. and Larsson, J.},
+  journal={Physics of Fluids},
+  volume={28},
+  pages={026102},
+  year={2016},
+  publisher={AIP Publishing LLC}
+}
+
+@article{musker1979explicit,
+  title={Explicit expression for the smooth wall velocity distribution in a turbulent boundary layer},
+  author={Musker, A.J.},
+  journal={AIAA~J.},
+  volume={17},
+  pages={655--657},
+  year={1979}
+}
+
+@article{urbin2001,
+  title={Large-eddy simulation of a supersonic boundary layer using an unstructured grid},
+  author={Urbin, G. and Knight, D.},
+  journal={AIAA~J.},
+  volume={39},
+  pages={1288--1295},
+  year={2001}
+}
+
+@article{pirozzoli2011,
+  title={Turbulence in supersonic boundary layers at moderate Reynolds number},
+  author={Pirozzoli, S. and Bernardini, M.},
+  journal={J.~Fluid~Mech.},
+  volume={688},
+  pages={120--168},
+  year={2011},
+  publisher={Cambridge University Press}
+}
+
+@article{vandriest1951,
+  title={Turbulent boundary layer in compressible fluids},
+  author={Van Driest, E.R.},
+  journal={Journal of the Aeronautical Sciences},
+  volume={18},
+  pages={145--160},
+  year={1951}
+}
+
+@article{musker1979,
+  title={Explicit expression for the smooth wall velocity distribution in a turbulent boundary layer},
+  author={Musker, A.J.},
+  journal={AIAA~J.},
+  volume={17},
+  number={6},
+  pages={655--657},
+  year={1979}
+}
+
+@article{wu2017,
+  title={Inflow turbulence generation methods},
+  author={Wu, X.},
+  journal={Annual Review of Fluid Mechanics},
+  volume={49},
+  pages={23--49},
+  year={2017},
+  publisher={Annual Reviews}
+}
+
+
+@article{lund1998,
+  title={Generation of turbulent inflow data for spatially-developing boundary layer simulations},
+  author={Lund, T.S. and Wu, X. and Squires, K.D.},
+  journal={Journal of Computational Physics},
+  volume={140},
+  pages={233--258},
+  year={1998},
+  publisher={Elsevier}
+}
+
+@article{touber2009,
+  title={Large-eddy simulation of low-frequency unsteadiness in a turbulent shock-induced separation bubble},
+  author={Touber, E. and Sandham, N.D.},
+  journal={Theoret.~Comput.~Fluid~Dyn.},
+  volume={23},
+  pages={79--107},
+  year={2009},
+  publisher={Springer}
+}
+
+@article{xu2004,
+  title={Assessment of inflow boundary conditions for compressible turbulent boundary layers},
+  author={Xu, S. and Martin, M. Pino},
+  journal={Physics of Fluids},
+  volume={16},
+  pages={2623--2639},
+  year={2004},
+  publisher={American Institute of Physics}
+}
+
+@article{bernardini2021,
+  title={{STREAmS}: A high-fidelity accelerated solver for direct numerical simulation of compressible turbulent flows},
+  author={Bernardini, M. and Modesti, D. and Salvadore, F. and Pirozzoli, S.},
+  journal={Comp.~Phys.~Comm.},
+  volume={263},
+  pages={107906},
+  year={2021} 
+}
+
+@book{smits2006,
+  title={Turbulent shear layers in supersonic flow},
+  author={Smits, A.J. and Dussauge, J.-P.},
+  year={2006},
+  publisher={Springer Science \& Business Media}
+}
+
+@article{lee2021,
+  title={Numerical Investigation of Sweep Effect on Turbulent Shock-Wave Boundary-Layer Interaction},
+  author={Lee, S. and Gross, A.},
+  journal={AIAA~J.},
+  volume={60},
+  pages={1--19},
+  year={2021} 
+}
+
+@article{direnzo2021,
+  title={Crossflow effects on shock wave/turbulent boundary layer interactions},
+  author={Di Renzo, M. and Oberoi, N. and Larsson, J. and Pirozzoli, S.},
+  journal={Theoret.~Comput.~Fluid~Dyn.},
+  volume={36},
+  pages={327--344},
+  year={2022} 
+}
+
+@article{grilli2012,
+  title={Analysis of unsteady behaviour in shockwave turbulent boundary layer interaction},
+  author={Grilli, M. and Schmid, P.J. and Hickel, S. and Adams, N.A.},
+  journal={J.~Fluid~Mech.},
+  volume={700},
+  pages={16--28},
+  year={2012},
+  publisher={Cambridge University Press}
+}
+
+@article{Adler2020,
+  title={Dynamics of strong swept-shock/turbulent-boundary-layer interactions},
+  author={Adler, M.C. and Gaitonde, D.V.},
+  journal={J.~Fluid~Mech.},
+  volume={896},
+  pages={A29},
+  year={2020} 
+}
+
+@article{padmanabhan2021,
+  title={Experimental Study of Swept Impinging Oblique Shock/Boundary-Layer Interactions},
+  author={Padmanabhan, S. and Maldonado, J.C. and Threadgill, J.A.S. and Little, J.C.},
+  journal={AIAA~J.},
+  volume={59},
+  pages={140--149},
+  year={2021} 
+}
+
+@inproceedings{Gross2016,
+  title={Numerical investigation of shock boundary-layer interactions},
+  author={Gross, A. and Fasel, H.F.},
+  booktitle={54th AIAA Aerospace Sciences Meeting},
+  series = {AIAA Paper},
+  number = {2016-0347},
+  year={2016}
+}
+
+@article{piponniau2009, 
+title={A simple model for low-frequency unsteadiness in shock-induced separation}, volume={629}, 
+journal={J.~Fluid~Mech.}, publisher={Cambridge University Press}, author={Piponniau, S. and Dussauge, J. P. and Debi\`{e}ve, J. F. and Dupont, P.}, 
+year={2009}, 
+pages={87–108}
+}
+
+@article{larsson2022,
+  author      = {J. Larsson and V. Kumar and N. Oberoi and M. {Di Renzo} and S. Pirozzoli},
+  title       = "Large eddy simulations of idealized shock/boundary-layer interactions with crossflow",
+  journal     = {AIAA J.},
+  volume      = "60",
+  pages       = "2767-2779",
+  doi         = "10.2514/1.J061060",
+  year        = "2022" }
+
+@article{leyva2017,
+  title={The relentless pursuit of hypersonic flight},
+  author={Ivett A.L.},
+  journal={Physics Today},
+  year={2017},
+  volume={70},
+  pages={30-36}
+}
+
+@book{babinsky2011,
+  title={Shock wave-boundary-layer interactions},
+  author={Babinsky, H. and Harvey, J.K.},
+  volume={32},
+  year={2011},
+  publisher={Cambridge University Press}
+}
+
+@article{Gaitonde2015,
+    title = {{Progress in shock wave/boundary layer interactions}},
+    year = {2015},
+    journal = {Progress in Aerospace Sciences},
+    author = {Gaitonde, D.V.},
+    month = {1},
+    pages = {80--99},
+    volume = {72},
+    publisher = {Elsevier Ltd},
+    doi = {10.1016/j.paerosci.2014.09.002},
+    issn = {03760421},
+    keywords = {Separated flows, Shock boundary layer interactions, Viscous-inviscid interactions}
+}
+
+
+@article{Dolling2001,
+    title = {{Fifty years of shock-wave/boundary-layer interaction research: What next?}},
+    year = {2001},
+    journal = {AIAA J.},
+    author = {Dolling, D. S.},
+    pages = {1517--1531},
+    volume = {39},
+    publisher = {American Inst. Aeronautics and Astronautics Inc.},
+    doi = {10.2514/2.1476},
+    issn = {00011452}
+}
+
+@article{Priebe2012,
+    title = {{Low-frequency unsteadiness in shock wave-turbulent boundary layer interaction}},
+    year = {2012},
+    journal = {J.~Fluid~Mech.},
+    author = {Priebe, S. and Pino~Mart{\'{i}}n, M.},
+    pages = {1--49},
+    volume = {699},
+    publisher = {Cambridge University Press},
+    url = {https://doi.org/10.1017/jfm.2011.560},
+    doi = {10.1017/jfm.2011.560},
+    keywords = {boundary layer separation, shock waves, turbulent boundary layers}
+}
+
+@article{Pirozzoli2011shock,
+    title = {{Direct numerical simulation database for impinging shock wave/turbulent boundary-layer interaction}},
+    year = {2011},
+    journal = {AIAA~J.},
+    author = {Pirozzoli, S. and Bernardini, M.},
+    pages = {1307--1312},
+    volume = {49},
+    doi = {10.2514/1.J050901},
+    issn = {00011452}
+}
+
+@article{Pirozzoli2010shock,
+    title = {{Direct numerical simulation of transonic shock/boundary layer interaction under conditions of incipient separation}},
+    year = {2010},
+    journal = {J.~Fluid~Mech.},
+    author = {Pirozzoli, S. and Bernardini, M. and Grasso, F.},
+    pages = {361--393},
+    volume = {657},
+    doi = {10.1017/S0022112010001710},
+    issn = {00221120},
+    keywords = {compressible boundary layers, shock waves, turbulence simulation}
+}
+
+@article{Erengil1993,
+    title = {Effects of sweepback on unsteady separation in {M}ach 5 compression ramp interactions},
+    year = {1993},
+    journal = {AIAA~J.},
+    author = {Erengil, M. E. and Dolling, D. S.},
+    pages = {302--311},
+    volume = {31} 
+}
+
+@article{Settles1980,
+    title = {{Investigation of three-dimensional shock/boundary-layer interactions at swept compression corners}},
+    year = {1980},
+    journal = {AIAA~J.},
+    author = {Settles, G. S. and Perkins, J. J. and Bogdonoff, S. M.},
+    pages = {779--785},
+    volume = {18},
+    doi = {10.2514/3.50819},
+    issn = {00011452}
+}
+
+
+@article{Vanstone2018,
+    title = {{Experimental study of the mean structure and quasi-conical scaling of a swept-compression-ramp interaction at Mach 2}},
+    year = {2018},
+    journal = {J.~Fluid~Mech.},
+    author = {Vanstone, L. and Musta, M. N. and Seckin, S. and Clemens, N. T.},
+    pages = {1--27},
+    volume = {841},
+    doi = {10.1017/jfm.2018.8},
+    issn = {14697645},
+    keywords = {boundary layer separation, high-speed flow, shock waves}
+}
+
+@inproceedings{Vanstone2018a,
+    title = {{POD analysis of unsteadiness mechanisms within a swept compression-ramp shock-wave boundary-layer interaction at Mach 2}},
+    year = {2018},
+    booktitle = {AIAA Aerospace Sciences Meeting, 2018},
+    author = {Vanstone, L. and Clemens, N. T.},
+    number = {210059},
+    url = {https://arc.aiaa.org/doi/abs/10.2514/6.2018-2073},
+    isbn = {9781624105241},
+    doi = {10.2514/6.2018-2073}
+}
+
+@article{Schmisseur1994,
+    title = {{Fluctuating wall pressures near separation in highly swept turbulent interactions}},
+    year = {1994},
+    journal = {AIAA~J.},
+    author = {Schmisseur, J. D. and Dolling, D. S.},
+    pages = {1151--1157},
+    volume = {32} 
+}
+
+@article{Gaitonde1999,
+    title = {{Three-dimensional turbulent interactions caused by asymmetric crossing-shock configurations}},
+    year = {1999},
+    journal = {AIAA~J.},
+    author = {Gaitonde, D. V. and Shang, J. S. and Garrison, T. J. and Zheltovodov, A. A. and Maksimov, A. I.},
+    volume = {37},
+    pages = {1602--1608},
+}
+
+@article{Settles1984,
+    title = {{Cylindrical and conical flow regimes of three-dimensional shock/boundary-layer interactions}},
+    year = {1984},
+    journal = {AIAA~J.},
+    author = {Settles, G. S. and Teng, H.Y.},
+    pages = {194--200},
+    volume = {22},
+}
+
+@article{Threadgill2020,
+    title = {{An inviscid analysis of swept oblique shock reflections}},
+    year = {2020},
+    journal = {J.~Fluid~Mech.},
+    author = {Threadgill, J.A.S. and Little, J. C.},
+    volume = {890},
+    doi = {10.1017/jfm.2020.117},
+    issn = {14697645},
+    keywords = {high-speed flow, shock waves}
+}
+
+
+@article{Gross2018,
+    title = {{Numerical investigation of shock wave turbulent boundary layer interactions}},
+    year = {2018},
+    journal = {AIAA Aerospace Sciences Meeting, 2018},
+    author = {Gross, A. and Little, J. C. and Fasel, H. F.},
+    number = {210059},
+    pages = {1--27},
+    isbn = {9781624105241},
+    doi = {10.2514/6.2018-1807}
+}
+
+@article{ceci2022,
+	title={Numerical tripping of high-speed turbulent boundary layers},
+	author={Ceci, A. and Palumbo, A. and Larsson, J. and Pirozzoli, S.},
+	journal={Theoret.~Comput.~Fluid~Dyn.},
+	year={2022}
+}
+
+@article{DiRenzo2021b,
+    title = {{Crossflow effects on shock wave / turbulent boundary layer}},
+    year = {2021},
+    journal = {Theoretical and Computational Fluid Dynamics},
+    author = {Di~Renzo, M. and Oberoi, N. and Larsson, J. and Pirozzoli, S.},
+    publisher = {Springer Berlin Heidelberg},
+    url = {https://doi.org/10.1007/s00162-021-00574-y},
+    doi = {10.1007/s00162-021-00574-y},
+    issn = {1432-2250},
+    keywords = {Compressible turbulence, Cross-flow effects, Direct numerical simulation, Shock/boundary-layer interactions}
+}
+
+
+@article{Arora2019,
+  title={Unsteady characteristics of a swept-shock/boundary-layer interaction at {M}ach 2},
+  author={Arora, N. and Mears, L. and Alvi, F.S.},
+  journal={AIAA~J.},
+  volume = {57},
+  pages = {4548-4559},
+  year={2019},
+}
+
+@article{Sasaki2021,
+  title={Causality in the shock wave/turbulent boundary layer interaction},
+  author={Sasaki, K. and Barros, D.C. and Cavalieri, A.V.G. and Larchev{\^e}que, L.},
+  journal={Phys.~Rev.~Fluids},
+  volume={6},
+  pages={064609},
+  year={2021} 
+}
+
+@inproceedings{Adler2018,
+  title={Unsteadiness in shock/turbulent-boundary-layer interactions with open flow separation},
+  author={Adler, M.C. and Gaitonde, D.V.},
+  booktitle={2018 AIAA Aerospace Sciences Meeting},
+  series = {AIAA Paper},
+  number = {2018-2075},
+  year={2018}
+}
+
+@inproceedings{Doehrmann2018,
+  title={Effect of sweep on the mean and unsteady structures of impinging shock/boundary layer interactions},
+  author={Doehrmann, A.C. and Padmanabhan, S. and Threadgill, J.A. and Little, J.C.},
+  booktitle={2018 AIAA Aerospace Sciences Meeting},
+  series = {AIAA Paper},
+  number = {2018-2074},
+  year={2018}
+}
+
+@inproceedings{Vanstone2017,
+  title={{Role of boundary-layer on unsteadiness on a Mach 2 swept-ramp shock/boundary-layer interaction using 50 k{H}z {PIV}}},
+  author={Vanstone, L. and Saleem, M. and Seckin, S. and Clemens, N.T.},
+  booktitle={55th AIAA Aerospace Sciences Meeting},
+  series = {AIAA Paper},
+  number = {2017-0757},
+  year={2017}
+}
+
+@article{Rowley2004,
+  title={Model reduction for compressible flows using POD and Galerkin projection},
+  author={Rowley, C.W. and Colonius, T. and Murray, R.M.},
+  journal={Physica D: Nonlinear Phenomena},
+  volume={189},
+  pages={115--129},
+  year={2004} 
+}
+
+@article{Vanstone2019,
+  title={Proper orthogonal decomposition analysis of swept-ramp shock-wave/boundary-layer unsteadiness at {M}ach 2},
+  author={Vanstone, L. and Clemens, N.T.},
+  journal={AIAA~J.},
+  volume={57},
+  pages={3395--3409},
+  year={2019} 
+}
+
+@article{Pirozzoli2013,
+  title={Generalized characteristic relaxation boundary conditions for unsteady compressible flow simulations},
+  author={Pirozzoli, S. and Colonius, T.},
+  journal={J.~Comput.~Phys.},
+  volume={248},
+  pages={109--126},
+  year={2013} 
+}
+
+@Article{Pirozzoli2006,
+  author =   {S. Pirozzoli and F. Grasso},
+  title =    {Direct numerical simulation of impinging shock wave turbulent boundary layer interaction at {$M=2.25$}},
+  journal =  {Phys. Fluids},
+  year =     2006,
+  volume =   18,
+  pages =    {065113},
+}
+
+@book{greitzer2007,
+	title={Internal flow: concepts and applications},
+	author={Greitzer, E. M. and Tan, C. S. and Graf, M. B.},
+	year={2007},
+	publisher={Cambridge University Press}
+}
+
+@article{kristoffersen1993,
+	title={Direct simulations of low-Reynolds-number turbulent flow in a rotating channel},
+	author={Kristoffersen, R. and Andersson, H. I.},
+	journal={J.~Fluid~Mech.},
+	volume={256},
+	pages={163--197},
+	year={1993},
+	publisher={Cambridge University Press}
+}
+
+@article{barua1954,
+	title={Secondary flow in a rotating straight pipe},
+	author={Barua, S.N.},
+	journal={Proc.~R.~Soc.~London.~Series~A},
+	volume={227},
+	pages={133--139},
+	year={1954},
+	publisher={The Royal Society London}
+}
+
+@article{zhang2019,
+	title={Direct numerical simulation of turbulent flow in a circular pipe subjected to radial system rotation},
+	author={Zhang, Z.-P. and Wang, B.-C.},
+	journal={Flow Turbul. Combust.},
+	volume={103},
+	pages={1057--1079},
+	year={2019},
+	publisher={Springer}
+}
+
+@article{pirozzoli2021, 
+	title={One-point statistics for turbulent pipe flow up to {${\textit {Re}}_{\tau } \approx 6000$}}, 
+	volume={926},
+	journal={J.~Fluid~Mech.}, 
+	author={Pirozzoli, S. and Romero, J. and Fatica, M. and Verzicco, R. and Orlandi, P.}, 
+	year={2021}, 
+	pages={A28}
+}
+
+@article{tatro1967, 
+	title={Experiments on Ekman layer instability}, 
+	volume={28},
+	journal={J.~Fluid~Mech.}, 
+	author={Tatro, P. R. and Mollo-Christensen, E. L.}, 
+	year={1967}, 
+	pages={531–543}
+}
+
+@article{ito71,
+	author = {Ito, H. and Nanbu, K.},
+	title = "{Flow in Rotating Straight Pipes of Circular Cross Section}",
+	journal = {J. Basic Eng.},
+	volume = {93},
+	pages = {383-394},
+	year = {1971}
+}
+
+@article{maartensson2002,
+	title={Experimental investigation of a rapidly rotating turbulent duct flow},
+	author={M{\aa}rtensson, G. and Gunnarsson, J. and Johansson, A.V. and Moberg, H.},
+	journal={Exp. Fluids},
+	volume={33},
+	pages={482--487},
+	year={2002}
+}
+
+@article{pallares2000,
+	title={Large-eddy simulations of turbulent flow in a rotating square duct},
+	author={Pallares, J. and Davidson, L.},
+	journal={Phys. Fluids},
+	volume={12},
+	pages={2878--2894},
+	year={2000}
+}
+
+@article{qin2006,
+	title={Large eddy simulation of turbulent heat transfer in a rotating square duct},
+	author={Qin, Z. and Pletcher, R. H.},
+	journal={Int. J. Heat Fluid Flow},
+	volume={27},
+	number={3},
+	pages={371--390},
+	year={2006},
+	publisher={Elsevier}
+}
+
+@article{johnston72, 
+	title={Effects of spanwise rotation on the structure of two-dimensional fully developed turbulent channel flow}, 
+	volume={56}, 
+	journal={J.~Fluid~Mech.}, 
+	author={Johnston, J. P. and Halleent, R. M. and Lezius, D. K.}, 
+	year={1972}, 
+	pages={533–557}
+}
+
+@article{benton66,
+	title={Flow through a rapidly rotating conduit of arbitrary cross-section},
+	author={Benton, G.S. and Boyer, D.},
+	journal={J.~Fluid~Mech.},
+	volume={26},
+	pages={69--79},
+	year={1966},
+	publisher={Cambridge University Press}
+}
+
+@article{mori71,
+	title = {Convective heat transfer in a rotating radial circular pipe (2nd report)},
+	journal = {Int. J. Heat Mass Transf.},
+	volume = {14},
+	pages = {1807-1824},
+	year = {1971},
+	author = {Y. Mori and T. Fukada and W. Nakayama}
+}
+
+@article{ishigaki96, 
+	title={Analogy between turbulent flows in curved pipes and orthogonally rotating pipes}, volume={307}, 
+	journal={J.~Fluid~Mech.}, 
+	author={Ishigaki, H.}, 
+	year={1996}, 
+	pages={1–10}
+}
+
+@article{grundestam08, 
+	title={Direct numerical simulations of rotating turbulent channel flow}, 
+	volume={598}, 
+	journal={J.~Fluid~Mech.}, 
+	author={Grundestam, O. and Wallin, S. and Johansson, A. V.}, 
+	year={2008}, 
+	pages={177–199}
+}
+
+@article{wallin13, 
+	title={Laminarization mechanisms and extreme-amplitude states in rapidly rotating plane channel flow},
+	volume={730}, 
+	journal={J.~Fluid~Mech.}, 
+	author={Wallin, S. and Grundestam, O. and Johansson, A. V.}, 
+	year={2013}, 
+	pages={193–219}
+}
+
+@article{stevens2013, 
+	title={The unifying theory of scaling in thermal convection: the updated prefactors}, volume={730}, 
+	DOI={10.1017/jfm.2013.298}, 
+	journal={J.~Fluid~Mech.}, 
+	author={Stevens, R. J. A. M. and van der Poel, E. P. and Grossmann, S. and Lohse, D.}, 
+	year={2013}, 
+	pages={295–308}
+}
+
+@article{verzicco1996,
+	title = {A Finite-Difference Scheme for Three-Dimensional Incompressible Flows in Cylindrical Coordinates},
+	journal = {J.~Comput.~Phys.},
+	volume = {123},
+	pages = {402-414},
+	year = {1996},
+	author = {R. Verzicco and P. Orlandi},
+}
+
+@article{orlandi1997, 
+	title={Direct simulations of turbulent flow in a pipe rotating about its axis}, 
+	volume={343},
+	journal={J.~Fluid~Mech.}, 
+	author={Orlandi, P. and Fatica, M.}, 
+	year={1997}, 
+	pages={43–72}
+}
+
+@article{harlow1965,
+	author = {Harlow, F. H. and Welch, J. E.},
+	title = "{Numerical Calculation of Time‐Dependent Viscous Incompressible Flow of Fluid with Free Surface}",
+	journal = {Phys. Fluids},
+	volume = {8},
+	pages = {2182-2189},
+	year = {1965}
+}
+
+@article{kim1985,
+	title = {Application of a fractional-step method to incompressible Navier-Stokes equations},
+	journal = {J.~Comput.~Phys.},
+	volume = {59},
+	pages = {308-323},
+	year = {1985},
+	author = {J. Kim and P. Moin}
+}
+
+@article{moin2016,
+	title = {On the suitability of second-order accurate discretizations for turbulent flow simulations},
+	journal = {Eur. J. Mech. B Fluids},
+	volume = {55},
+	pages = {242-245},
+	year = {2016},
+	author = {P. Moin and R. Verzicco}
+}
+
+@article{pirozzoli2016, 
+	title={Passive scalars in turbulent channel flow at high Reynolds number}, 
+	volume={788}, 
+	journal={J.~Fluid~Mech.}, 
+	author={Pirozzoli, S. and Bernardini, M. and Orlandi, P.}, 
+	year={2016}, 
+	pages={614–639}
+}
+
+@article{akselvoll1996,
+	title = {An efficient method for temporal integration of the {N}avier-{S}tokes equations in confined axisymmetric geometries},
+	author = {Akselvoll, K. and Moin, P.},
+	journal = {J.~Comput.~Phys.},
+	volume = 125,
+	year = {1996},
+} 
+
+@article{wu2008,
+	title={A direct numerical simulation study on the mean velocity characteristics in turbulent pipe flow},
+	author={X. Wu and P. Moin},
+	journal={J.~Fluid~Mech.},
+	year={2008},
+	volume={608},
+	pages={81 - 112}
+}
+
+@book{fatica2014,
+	title={CUDA Fortran for scientists and engineers},
+	author={Fatica, M. and Ruetsch, G.},
+	year={2014},
+	publisher={Elsevier}
+}
+
+@Book{orlandi_00,
+  author = {P. Orlandi},
+  title =  {Fluid flow phenomena: a numerical toolkit},
+  publisher = {Kluwer},
+  year =  2000
+}
+
+@article{proudman1916,
+  title={On the motion of solids in a liquid possessing vorticity},
+  author={J. Proudman},
+  journal={Proc.~R.~Soc.~London.~Series~A},
+  volume={92},
+  number={642},
+  pages={408--424},
+  year={1916} 
+}
+
+@article{taylor1917,
+  title={Motion of solids in fluids when the flow is not irrotational},
+  author={G.I. Taylor},
+  journal={Proc.~R.~Soc.~London.~Series~A},
+  volume={93},
+  number={648},
+  pages={99--113},
+  year={1917} 
+}
+
+@book{greenspan1968,
+  title={The theory of rotating fluids},
+  author={H.P. Greenspan},
+  year={1968},
+  publisher={Cambridge University Press Cambridge}
+}
+
+@article{pirozzoli_21grid,
+        title={Natural grid stretching for DNS of wall-bounded flows},
+        author={S. Pirozzoli and P. Orlandi},
+        journal={J.~Comput.~Phys.},
+        volume={439},
+        pages={110408},
+        year={2021},
+}
+
+@article{dai2016,
+    author = {Dai, Y.-J. and Huang, W.-X. and Xu, C.-X.},
+    title = "{Effects of Taylor-G{\"o}rtler vortices on turbulent flows in a spanwise-rotating channel}",
+    journal = {Phys. Fluids},
+    volume = {28},
+    pages = {115104},
+    year = {2016}
+}
+
+@article{xia2018, 
+title={Multiple states in turbulent plane Couette flow with spanwise rotation}, 
+volume={837}, 
+journal={J.~Fluid~Mech.}, 
+author={Xia, Z. and Shi, Y. and Cai, Q. and Wan, M. and Chen, S.}, 
+year={2018}, 
+pages={477–490}
+}
+
+@article{yang2018,
+  title={The effects of streamwise system rotation on pressure fluctuations in a turbulent channel flow},
+  author={Yang, Z. and Deng, B.-Q. and Wang, B.-C. and Shen, L.},
+  journal={Phys. Fluids},
+  volume={30},
+  year={2018},
+}
+
+@article{yang2012,
+  title={Channel turbulence with spanwise rotation studied using helical wave decomposition},
+  author={Yang, Y.-T. and Wu, J.-Z.},
+  journal={J.~Fluid~Mech.},
+  volume={692},
+  pages={137--152},
+  year={2012},
+}
+
+@article{tsukahara2010,
+  title={Flow regimes in a plane Couette flow with system rotation},
+  author={Tsukahara, T. and Tillmark, N. and Alfredsson, P.H.},
+  journal={J.~Fluid~Mech.},
+  volume={648},
+  pages={5--33},
+  year={2010},
+}
+
+@article{kawata2016turbulent,
+  title={Turbulent rotating plane Couette flow: Reynolds and rotation number dependency of flow structure and momentum transport},
+  author={Kawata, T. and Alfredsson, P. H.},
+  journal={Phys. Rev. Fluids},
+  volume={1},
+  pages={034402},
+  year={2016},
+}
+
+@article{gai2016turbulent,
+  title={Turbulent statistics and flow structures in spanwise-rotating turbulent plane Couette flows},
+  author={Gai, J. and Xia, Z. and Cai, Q. and Chen, S.},
+  journal={Phys. Rev. Fluids},
+  volume={1},
+  pages={054401},
+  year={2016},
+}
+
+@article{dai2015direct,
+  title={Direct numerical simulation of turbulent flow in a rotating square duct},
+  author={Dai, Y.-J. and Huang, W.-X. and Xu, C.-X. and Cui, G.-X.},
+  journal={Phys. Fluids},
+  volume={27},
+  year={2015},
+}
+
+@article{fang2017direct,
+  title={Direct numerical simulation of turbulent flow in a spanwise rotating square duct at high rotation numbers},
+  author={Fang, X. and Yang, Z. and Wang, B.-C. and Bergstrom, D. J.},
+  journal={Int. J. Heat Fluid Flow},
+  volume={63},
+  pages={88--98},
+  year={2017},
+}
+
+@article{rosas2021direct,
+  title={Direct numerical simulation of turbulent elliptical pipe flow under system rotation about the major axis},
+  author={Rosas, R. H. and Zhang, Z.-P. and Wang, B.-C.},
+  journal={Phys. Rev. Fluids},
+  volume={6},
+  number={8},
+  pages={084609},
+  year={2021},
+}
+
+@article{pallares2005,
+	author = {Pallares, J. and Grau, F. X. and Davidson, L.},
+	title = {Pressure drop and heat transfer rates in forced convection rotating square duct flows at high rotation rates},
+	journal = {Phys. Fluids},
+	volume = {17},
+	pages = {075102},
+	year = {2005}
+}

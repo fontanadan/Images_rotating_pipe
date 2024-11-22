@@ -1,0 +1,215 @@
+\begin{thebibliography}{37}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\def\au#1{#1} \def\ed#1{#1} \def\yr#1{#1}\def\at#1{#1}\def\jt#1{\textit{#1}}
+  \def\bt#1{#1}\def\bvol#1{\textbf{#1}} \def\vol#1{#1} \def\pg#1{#1}
+  \def\publ#1{#1}\def\arxiv#1{#1}\def\org#1{#1}\def\st#1{\textit{#1}}
+
+\bibitem[Akselvoll \& Moin(1996)]{akselvoll1996}
+{\sc \au{Akselvoll, K.} \& \au{Moin, P.}} \yr{1996}  \at{An efficient method
+  for temporal integration of the {N}avier-{S}tokes equations in confined
+  axisymmetric geometries}.  \jt{J.~Comput.~Phys.}  \bvol{125}.
+
+\bibitem[Atkins \& Kanjirakkad(2014)]{atkins2014}
+{\sc \au{Atkins, Nicholas~R} \& \au{Kanjirakkad, Vasudevan}} \yr{2014} Flow in
+  a rotating cavity with axial throughflow at engine representative conditions.
+   \bt{In {\em Turbo Expo: Power for Land, Sea, and Air\/}}, ,  \vol{vol.
+  45738},  \pg{p. V05CT16A041}. American Society of Mechanical Engineers.
+
+\bibitem[Barua(1954)]{barua1954}
+{\sc \au{Barua, S.N.}} \yr{1954}  \at{Secondary flow in a rotating straight
+  pipe}.  \jt{Proc.~R.~Soc.~London.~Series~A}  \bvol{227},  \pg{133--139}.
+
+\bibitem[Benton \& Boyer(1966)]{benton66}
+{\sc \au{Benton, G.S.} \& \au{Boyer, D.}} \yr{1966}  \at{Flow through a rapidly
+  rotating conduit of arbitrary cross-section}.  \jt{J.~Fluid~Mech.}
+  \bvol{26},  \pg{69--79}.
+
+\bibitem[Coletti {\em et~al.\/}(2014)Coletti, Jacono, Cresci \&
+  Arts]{coletti2014}
+{\sc \au{Coletti, Filippo}, \au{Jacono, David~Lo}, \au{Cresci, Irene} \&
+  \au{Arts, Tony}} \yr{2014}  \at{Turbulent flow in rib-roughened channel under
+  the effect of coriolis and rotational buoyancy forces}.  \jt{Physics of
+  fluids}  \bvol{26}~(4).
+
+\bibitem[Coletti {\em et~al.\/}(2012)Coletti, Maurer, Arts \&
+  Di~Sante]{coletti2012}
+{\sc \au{Coletti, Filippo}, \au{Maurer, Thomas}, \au{Arts, Tony} \&
+  \au{Di~Sante, Alberto}} \yr{2012}  \at{Flow field investigation in rotating
+  rib-roughened channel by means of particle image velocimetry}.
+  \jt{Experiments in fluids}  \bvol{52},  \pg{1043--1061}.
+
+\bibitem[Dai {\em et~al.\/}(2015)Dai, Huang, Xu \& Cui]{dai2015direct}
+{\sc \au{Dai, Y.-J.}, \au{Huang, W.-X.}, \au{Xu, C.-X.} \& \au{Cui, G.-X.}}
+  \yr{2015}  \at{Direct numerical simulation of turbulent flow in a rotating
+  square duct}.  \jt{Phys. Fluids}  \bvol{27}.
+
+\bibitem[Fang {\em et~al.\/}(2017)Fang, Yang, Wang \&
+  Bergstrom]{fang2017direct}
+{\sc \au{Fang, X.}, \au{Yang, Z.}, \au{Wang, B.-C.} \& \au{Bergstrom, D.~J.}}
+  \yr{2017}  \at{Direct numerical simulation of turbulent flow in a spanwise
+  rotating square duct at high rotation numbers}.  \jt{Int. J. Heat Fluid Flow}
+   \bvol{63},  \pg{88--98}.
+
+\bibitem[Fatica \& Ruetsch(2014)]{fatica2014}
+{\sc \au{Fatica, M.} \& \au{Ruetsch, G.}} \yr{2014} {\em CUDA Fortran for
+  scientists and engineers\/}.  \publ{Elsevier}.
+
+\bibitem[Greenspan(1968)]{greenspan1968}
+{\sc \au{Greenspan, H.P.}} \yr{1968} {\em The theory of rotating fluids\/}.
+  \publ{Cambridge University Press Cambridge}.
+
+\bibitem[Greitzer {\em et~al.\/}(2007)Greitzer, Tan \& Graf]{greitzer2007}
+{\sc \au{Greitzer, E.~M.}, \au{Tan, C.~S.} \& \au{Graf, M.~B.}} \yr{2007} {\em
+  Internal flow: concepts and applications\/}.  \publ{Cambridge University
+  Press}.
+
+\bibitem[Hoyas \& Jim\'enez(2006)]{hoyas_06}
+{\sc \au{Hoyas, S.} \& \au{Jim\'enez, J.}} \yr{2006}  \at{Scaling of velocity
+  fluctuations in turbulent channels up to {${R}e_{\tau} = 2003$}}.  \jt{Phys.
+  Fluids}  \bvol{18},  \pg{011702}.
+
+\bibitem[Ishigaki(1996)]{ishigaki96}
+{\sc \au{Ishigaki, H.}} \yr{1996}  \at{Analogy between turbulent flows in
+  curved pipes and orthogonally rotating pipes}.  \jt{J.~Fluid~Mech.}
+  \bvol{307},  \pg{1–10}.
+
+\bibitem[Ito \& Nanbu(1971)]{ito71}
+{\sc \au{Ito, H.} \& \au{Nanbu, K.}} \yr{1971}  \at{{Flow in Rotating Straight
+  Pipes of Circular Cross Section}}.  \jt{J. Basic Eng.}  \bvol{93},
+  \pg{383--394}.
+
+\bibitem[Jackson {\em et~al.\/}(2021)Jackson, Luberti, Tang, Pountney, Scobie,
+  Sangan, Owen \& Lock]{jackson2021}
+{\sc \au{Jackson, Richard~W}, \au{Luberti, Dario}, \au{Tang, Hui},
+  \au{Pountney, Oliver~J}, \au{Scobie, James~A}, \au{Sangan, Carl~M}, \au{Owen,
+  J~Michael} \& \au{Lock, Gary~D}} \yr{2021}  \at{Measurement and analysis of
+  buoyancy-induced heat transfer in aero-engine compressor rotors}.
+  \jt{Journal of Engineering for Gas Turbines and Power}  \bvol{143}~(6),
+  \pg{061004}.
+
+\bibitem[Johnston {\em et~al.\/}(1972)Johnston, Halleent \& Lezius]{johnston72}
+{\sc \au{Johnston, J.~P.}, \au{Halleent, R.~M.} \& \au{Lezius, D.~K.}}
+  \yr{1972}  \at{Effects of spanwise rotation on the structure of
+  two-dimensional fully developed turbulent channel flow}.  \jt{J.~Fluid~Mech.}
+   \bvol{56},  \pg{533–557}.
+
+\bibitem[Kim \& Moin(1985)]{kim1985}
+{\sc \au{Kim, J.} \& \au{Moin, P.}} \yr{1985}  \at{Application of a
+  fractional-step method to incompressible navier-stokes equations}.
+  \jt{J.~Comput.~Phys.}  \bvol{59},  \pg{308--323}.
+
+\bibitem[Kristoffersen \& Andersson(1993)]{kristoffersen1993}
+{\sc \au{Kristoffersen, R.} \& \au{Andersson, H.~I.}} \yr{1993}  \at{Direct
+  simulations of low-reynolds-number turbulent flow in a rotating channel}.
+  \jt{J.~Fluid~Mech.}  \bvol{256},  \pg{163--197}.
+
+\bibitem[Ligrani(2013)]{ligrani_13}
+{\sc \au{Ligrani, P.}} \yr{2013}  \at{Heat transfer augmentation technologies
+  for internal cooling of turbine components of gas turbine engines}.
+  \jt{Int.~J.~Rot.~Machin.}  \bvol{2013}.
+
+\bibitem[Liou {\em et~al.\/}(2007)Liou, Chang, Hung \& Chiou]{liou2007}
+{\sc \au{Liou, TM}, \au{Chang, SW}, \au{Hung, JH} \& \au{Chiou, SF}} \yr{2007}
+  \at{High rotation number heat transfer of a 45 rib-roughened rectangular duct
+  with two channel orientations}.  \jt{International Journal of Heat and Mass
+  Transfer}  \bvol{50}~(19-20),  \pg{4063--4078}.
+
+\bibitem[Luberti {\em et~al.\/}(2021)Luberti, Patinios, Jackson, Tang,
+  Pountney, Scobie, Sangan, Owen \& Lock]{luberti2021}
+{\sc \au{Luberti, Dario}, \au{Patinios, Marios}, \au{Jackson, Richard~W},
+  \au{Tang, Hui}, \au{Pountney, Oliver~J}, \au{Scobie, James~A}, \au{Sangan,
+  Carl~M}, \au{Owen, J~Michael} \& \au{Lock, Gary~D}} \yr{2021}  \at{Design and
+  testing of a rig to investigate buoyancy-induced heat transfer in aero-engine
+  compressor rotors}.  \jt{Journal of Engineering for Gas Turbines and Power}
+  \bvol{143}~(4),  \pg{041030}.
+
+\bibitem[M{\aa}rtensson {\em et~al.\/}(2002)M{\aa}rtensson, Gunnarsson,
+  Johansson \& Moberg]{maartensson2002}
+{\sc \au{M{\aa}rtensson, G.}, \au{Gunnarsson, J.}, \au{Johansson, A.V.} \&
+  \au{Moberg, H.}} \yr{2002}  \at{Experimental investigation of a rapidly
+  rotating turbulent duct flow}.  \jt{Exp. Fluids}  \bvol{33},  \pg{482--487}.
+
+\bibitem[Morris(1996)]{morris1996}
+{\sc \au{Morris, WD}} \yr{1996}  \at{A rotating facility to study heat transfer
+  in the cooling passages of turbine rotor blades}.  \jt{Proceedings of the
+  Institution of Mechanical Engineers, Part A: Journal of Power and Energy}
+  \bvol{210}~(1),  \pg{55--63}.
+
+\bibitem[Orlandi(2000)]{orlandi_00}
+{\sc \au{Orlandi, P.}} \yr{2000} {\em Fluid flow phenomena: a numerical
+  toolkit\/}.  \publ{Kluwer}.
+
+\bibitem[Pallares \& Davidson(2000)]{pallares2000}
+{\sc \au{Pallares, J.} \& \au{Davidson, L.}} \yr{2000}  \at{Large-eddy
+  simulations of turbulent flow in a rotating square duct}.  \jt{Phys. Fluids}
+  \bvol{12},  \pg{2878--2894}.
+
+\bibitem[Pallares {\em et~al.\/}(2005)Pallares, Grau \& Davidson]{pallares2005}
+{\sc \au{Pallares, J.}, \au{Grau, F.~X.} \& \au{Davidson, L.}} \yr{2005}
+  \at{Pressure drop and heat transfer rates in forced convection rotating
+  square duct flows at high rotation rates}.  \jt{Phys. Fluids}  \bvol{17},
+  \pg{075102}.
+
+\bibitem[Pirozzoli \& Orlandi(2021)]{pirozzoli_21grid}
+{\sc \au{Pirozzoli, S.} \& \au{Orlandi, P.}} \yr{2021}  \at{Natural grid
+  stretching for dns of wall-bounded flows}.  \jt{J.~Comput.~Phys.}
+  \bvol{439},  \pg{110408}.
+
+\bibitem[Pirozzoli {\em et~al.\/}(2021)Pirozzoli, Romero, Fatica, Verzicco \&
+  Orlandi]{pirozzoli2021}
+{\sc \au{Pirozzoli, S.}, \au{Romero, J.}, \au{Fatica, M.}, \au{Verzicco, R.} \&
+  \au{Orlandi, P.}} \yr{2021}  \at{One-point statistics for turbulent pipe flow
+  up to {${\textit {Re}}_{\tau } \approx 6000$}}.  \jt{J.~Fluid~Mech.}
+  \bvol{926},  \pg{A28}.
+
+\bibitem[Proudman(1916)]{proudman1916}
+{\sc \au{Proudman, J.}} \yr{1916}  \at{On the motion of solids in a liquid
+  possessing vorticity}.  \jt{Proc.~R.~Soc.~London.~Series~A}  \bvol{92}~(642),
+   \pg{408--424}.
+
+\bibitem[Rosas {\em et~al.\/}(2021)Rosas, Zhang \& Wang]{rosas2021direct}
+{\sc \au{Rosas, R.~H.}, \au{Zhang, Z.-P.} \& \au{Wang, B.-C.}} \yr{2021}
+  \at{Direct numerical simulation of turbulent elliptical pipe flow under
+  system rotation about the major axis}.  \jt{Phys. Rev. Fluids}  \bvol{6}~(8),
+   \pg{084609}.
+
+\bibitem[Sun {\em et~al.\/}(2022)Sun, Gao, Chew \& Amirante]{sun2022}
+{\sc \au{Sun, Zixiang}, \au{Gao, Feng}, \au{Chew, John~W} \& \au{Amirante,
+  Dario}} \yr{2022}  \at{Large eddy simulation investigation of low rossby
+  number buoyant flow in rotating cavities}.  \jt{Journal of engineering for
+  gas turbines and power}  \bvol{144}~(12),  \pg{121023}.
+
+\bibitem[Taylor(1917)]{taylor1917}
+{\sc \au{Taylor, G.I.}} \yr{1917}  \at{Motion of solids in fluids when the flow
+  is not irrotational}.  \jt{Proc.~R.~Soc.~London.~Series~A}  \bvol{93}~(648),
+  \pg{99--113}.
+
+\bibitem[Verzicco \& Orlandi(1996)]{verzicco1996}
+{\sc \au{Verzicco, R.} \& \au{Orlandi, P.}} \yr{1996}  \at{A finite-difference
+  scheme for three-dimensional incompressible flows in cylindrical
+  coordinates}.  \jt{J.~Comput.~Phys.}  \bvol{123},  \pg{402--414}.
+
+\bibitem[Visscher {\em et~al.\/}(2011)Visscher, Andersson, Barri, Didelle,
+  Viboud, Sous \& Sommeria]{visscher2011}
+{\sc \au{Visscher, Jan}, \au{Andersson, Helge~I}, \au{Barri, Mustafa},
+  \au{Didelle, Henri}, \au{Viboud, Samuel}, \au{Sous, Damien} \& \au{Sommeria,
+  Jo{\"e}l}} \yr{2011}  \at{A new set-up for piv measurements in rotating
+  turbulent duct flows}.  \jt{Flow measurement and instrumentation}
+  \bvol{22}~(1),  \pg{71--80}.
+
+\bibitem[Wu \& Moin(2008)]{wu2008}
+{\sc \au{Wu, X.} \& \au{Moin, P.}} \yr{2008}  \at{A direct numerical simulation
+  study on the mean velocity characteristics in turbulent pipe flow}.
+  \jt{J.~Fluid~Mech.}  \bvol{608},  \pg{81 -- 112}.
+
+\bibitem[Yang {\em et~al.\/}(2020)Yang, Xia, Lee, Lv \& Yuan]{yang2020}
+{\sc \au{Yang, X. I.~A.}, \au{Xia, Z.-H.}, \au{Lee, J.}, \au{Lv, Y.} \&
+  \au{Yuan, J.}} \yr{2020}  \at{Mean flow scaling in a spanwise rotating
+  channel}.  \jt{Phys. Rev. Fluids}  \bvol{5},  \pg{074603}.
+
+\bibitem[Zhang \& Wang(2019)]{zhang2019}
+{\sc \au{Zhang, Z.-P.} \& \au{Wang, B.-C.}} \yr{2019}  \at{Direct numerical
+  simulation of turbulent flow in a circular pipe subjected to radial system
+  rotation}.  \jt{Flow Turbul. Combust.}  \bvol{103},  \pg{1057--1079}.
+
+\end{thebibliography}
