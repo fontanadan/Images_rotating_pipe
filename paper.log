@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.11.13)  6 DEC 2024 12:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.10)  17 DEC 2024 17:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1110,166 +1110,166 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 5.5pt on input line 56.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 7.3pt on input line 56.
-<Figures/Pipe_spinning.pdf, id=27, 687.1301pt x 447.27202pt>
+<Figures/Pipe_spinning.pdf, id=7, 687.1301pt x 447.27202pt>
 File: Figures/Pipe_spinning.pdf Graphic file (type pdf)
 <use Figures/Pipe_spinning.pdf>
 Package pdftex.def Info: Figures/Pipe_spinning.pdf  used on input line 64.
 (pdftex.def)             Requested size: 192.0pt x 124.97597pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 9.0pt on input line 81.
-<Figures/cross_rotz0_roty0_u.png, id=28, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0_u.png, id=8, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0_u.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0_u.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0_u.png  used on input line 12
 4.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.00390625_u.png, id=29, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.00390625_u.png, id=9, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.00390625_u.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.00390625_u.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.00390625_u.png  used on inpu
 t line 125.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.0078125_u.png, id=30, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.0078125_u.png, id=10, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.0078125_u.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.0078125_u.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.0078125_u.png  used on input
  line 126.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.015625_u.png, id=31, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.015625_u.png, id=11, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.015625_u.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.015625_u.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.015625_u.png  used on input 
 line 127.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.03125_u.png, id=32, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.03125_u.png, id=12, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.03125_u.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.03125_u.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.03125_u.png  used on input l
 ine 128.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.0625_u.png, id=33, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.0625_u.png, id=13, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.0625_u.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.0625_u.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.0625_u.png  used on input li
 ne 129.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.125_u.png, id=34, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.125_u.png, id=14, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.125_u.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.125_u.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.125_u.png  used on input lin
 e 130.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.1875_u.png, id=35, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.1875_u.png, id=15, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.1875_u.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.1875_u.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.1875_u.png  used on input li
 ne 131.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.25_u.png, id=36, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.25_u.png, id=16, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.25_u.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.25_u.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.25_u.png  used on input line
  132.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.5_u.png, id=37, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.5_u.png, id=17, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.5_u.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.5_u.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.5_u.png  used on input line 
 133.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty1.0_u.png, id=38, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty1.0_u.png, id=18, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty1.0_u.png Graphic file (type png)
 <use Figures/cross_rotz0_roty1.0_u.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty1.0_u.png  used on input line 
 134.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
 Package epstopdf Info: Source file: <Figures/uz_cmap.eps>
-(epstopdf)                    date: 2024-02-21 17:15:01
+(epstopdf)                    date: 2024-12-17 17:09:37
 (epstopdf)                    size: 364288 bytes
 (epstopdf)             Output file: <Figures/uz_cmap-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-21 17:39:05
+(epstopdf)                    date: 2024-12-17 17:09:37
 (epstopdf)                    size: 10067 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/uz_cmap-eps-conver
 ted-to.pdf Figures/uz_cmap.eps>
 (epstopdf)             \includegraphics on input line 135.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/uz_cmap-eps-converted-to.pdf, id=39, 867.24pt x 144.54pt>
+<Figures/uz_cmap-eps-converted-to.pdf, id=19, 867.24pt x 144.54pt>
 File: Figures/uz_cmap-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/uz_cmap-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/uz_cmap-eps-converted-to.pdf  used on input li
 ne 135.
 (pdftex.def)             Requested size: 192.0pt x 31.99959pt.
-<Figures/cross_rotz0_roty0_T.png, id=40, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0_T.png, id=20, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0_T.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0_T.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0_T.png  used on input line 16
 0.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.00390625_T.png, id=41, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.00390625_T.png, id=21, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.00390625_T.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.00390625_T.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.00390625_T.png  used on inpu
 t line 161.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.0078125_T.png, id=42, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.0078125_T.png, id=22, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.0078125_T.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.0078125_T.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.0078125_T.png  used on input
  line 162.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.015625_T.png, id=43, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.015625_T.png, id=23, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.015625_T.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.015625_T.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.015625_T.png  used on input 
 line 163.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.03125_T.png, id=44, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.03125_T.png, id=24, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.03125_T.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.03125_T.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.03125_T.png  used on input l
 ine 164.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.0625_T.png, id=45, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.0625_T.png, id=25, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.0625_T.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.0625_T.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.0625_T.png  used on input li
 ne 165.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.125_T.png, id=46, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.125_T.png, id=26, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.125_T.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.125_T.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.125_T.png  used on input lin
 e 166.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.1875_T.png, id=47, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.1875_T.png, id=27, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.1875_T.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.1875_T.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.1875_T.png  used on input li
 ne 167.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.25_T.png, id=48, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.25_T.png, id=28, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.25_T.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.25_T.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.25_T.png  used on input line
  168.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty0.5_T.png, id=49, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty0.5_T.png, id=29, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty0.5_T.png Graphic file (type png)
 <use Figures/cross_rotz0_roty0.5_T.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty0.5_T.png  used on input line 
 169.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
-<Figures/cross_rotz0_roty1.0_T.png, id=50, 1011.78pt x 1011.78pt>
+<Figures/cross_rotz0_roty1.0_T.png, id=30, 1011.78pt x 1011.78pt>
 File: Figures/cross_rotz0_roty1.0_T.png Graphic file (type png)
 <use Figures/cross_rotz0_roty1.0_T.png>
 Package pdftex.def Info: Figures/cross_rotz0_roty1.0_T.png  used on input line 
 170.
 (pdftex.def)             Requested size: 56.9055pt x 56.89087pt.
 Package epstopdf Info: Source file: <Figures/uz_cmap.eps>
-(epstopdf)                    date: 2024-02-21 17:15:01
+(epstopdf)                    date: 2024-12-17 17:09:37
 (epstopdf)                    size: 364288 bytes
 (epstopdf)             Output file: <Figures/uz_cmap-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-21 17:39:05
+(epstopdf)                    date: 2024-12-17 17:09:37
 (epstopdf)                    size: 10067 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/uz_cmap-eps-conver
 ted-to.pdf Figures/uz_cmap.eps>
@@ -1280,77 +1280,77 @@ File: Figures/uz_cmap-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: Figures/uz_cmap-eps-converted-to.pdf  used on input li
 ne 171.
 (pdftex.def)             Requested size: 192.0pt x 31.99959pt.
-<Figures/unrolled_rotz0_roty0_u.png, id=51, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0_u.png, id=31, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0_u.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0_u.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0_u.png  used on input line
  218.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.00390625_T.png, id=53, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.00390625_T.png, id=33, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.00390625_T.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.00390625_T.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.00390625_T.png  used on i
 nput line 219.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.0078125_u.png, id=54, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.0078125_u.png, id=34, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.0078125_u.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.0078125_u.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.0078125_u.png  used on in
 put line 220.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.015625_u.png, id=55, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.015625_u.png, id=35, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.015625_u.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.015625_u.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.015625_u.png  used on inp
 ut line 221.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.03125_u.png, id=56, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.03125_u.png, id=36, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.03125_u.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.03125_u.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.03125_u.png  used on inpu
 t line 222.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.0625_u.png, id=57, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.0625_u.png, id=37, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.0625_u.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.0625_u.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.0625_u.png  used on input
  line 223.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.125_u.png, id=58, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.125_u.png, id=38, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.125_u.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.125_u.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.125_u.png  used on input 
 line 224.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.1875_u.png, id=59, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.1875_u.png, id=39, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.1875_u.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.1875_u.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.1875_u.png  used on input
  line 225.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.25_u.png, id=60, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.25_u.png, id=40, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.25_u.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.25_u.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.25_u.png  used on input l
 ine 226.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.5_u.png, id=61, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.5_u.png, id=41, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.5_u.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.5_u.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.5_u.png  used on input li
 ne 227.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty1.0_u.png, id=62, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty1.0_u.png, id=42, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty1.0_u.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty1.0_u.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty1.0_u.png  used on input li
 ne 228.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
 Package epstopdf Info: Source file: <Figures/uz_cmap.eps>
-(epstopdf)                    date: 2024-02-21 17:15:01
+(epstopdf)                    date: 2024-12-17 17:09:37
 (epstopdf)                    size: 364288 bytes
 (epstopdf)             Output file: <Figures/uz_cmap-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-21 17:39:05
+(epstopdf)                    date: 2024-12-17 17:09:37
 (epstopdf)                    size: 10067 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/uz_cmap-eps-conver
 ted-to.pdf Figures/uz_cmap.eps>
@@ -1361,7 +1361,7 @@ File: Figures/uz_cmap-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: Figures/uz_cmap-eps-converted-to.pdf  used on input li
 ne 229.
 (pdftex.def)             Requested size: 192.0pt x 31.99959pt.
-<Figures/unrolled_rotz0_roty0_T.png, id=63, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0_T.png, id=43, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0_T.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0_T.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0_T.png  used on input line
@@ -1372,65 +1372,65 @@ File: Figures/unrolled_rotz0_roty0.00390625_T.png Graphic file (type png)
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.00390625_T.png  used on i
 nput line 255.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.0078125_T.png, id=64, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.0078125_T.png, id=44, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.0078125_T.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.0078125_T.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.0078125_T.png  used on in
 put line 256.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.015625_T.png, id=65, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.015625_T.png, id=45, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.015625_T.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.015625_T.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.015625_T.png  used on inp
 ut line 257.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.03125_T.png, id=66, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.03125_T.png, id=46, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.03125_T.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.03125_T.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.03125_T.png  used on inpu
 t line 258.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.0625_T.png, id=67, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.0625_T.png, id=47, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.0625_T.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.0625_T.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.0625_T.png  used on input
  line 259.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.125_T.png, id=68, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.125_T.png, id=48, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.125_T.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.125_T.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.125_T.png  used on input 
 line 260.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.1875_T.png, id=69, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.1875_T.png, id=49, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.1875_T.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.1875_T.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.1875_T.png  used on input
  line 261.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.25_T.png, id=70, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.25_T.png, id=50, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.25_T.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.25_T.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.25_T.png  used on input l
 ine 262.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty0.5_T.png, id=71, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty0.5_T.png, id=51, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty0.5_T.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty0.5_T.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty0.5_T.png  used on input li
 ne 263.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
-<Figures/unrolled_rotz0_roty1.0_T.png, id=72, 1150.0566pt x 482.2818pt>
+<Figures/unrolled_rotz0_roty1.0_T.png, id=52, 1150.0566pt x 482.2818pt>
 File: Figures/unrolled_rotz0_roty1.0_T.png Graphic file (type png)
 <use Figures/unrolled_rotz0_roty1.0_T.png>
 Package pdftex.def Info: Figures/unrolled_rotz0_roty1.0_T.png  used on input li
 ne 264.
 (pdftex.def)             Requested size: 170.71652pt x 71.58852pt.
 Package epstopdf Info: Source file: <Figures/uz_cmap.eps>
-(epstopdf)                    date: 2024-02-21 17:15:01
+(epstopdf)                    date: 2024-12-17 17:09:37
 (epstopdf)                    size: 364288 bytes
 (epstopdf)             Output file: <Figures/uz_cmap-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-21 17:39:05
+(epstopdf)                    date: 2024-12-17 17:09:37
 (epstopdf)                    size: 10067 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/uz_cmap-eps-conver
 ted-to.pdf Figures/uz_cmap.eps>
@@ -1441,159 +1441,159 @@ File: Figures/uz_cmap-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: Figures/uz_cmap-eps-converted-to.pdf  used on input li
 ne 265.
 (pdftex.def)             Requested size: 192.0pt x 31.99959pt.
-<Figures/meanfield_rotz0_roty0_u.png, id=73, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0_u.png, id=53, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0_u.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0_u.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0_u.png  used on input lin
 e 290.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.00390625_u.png, id=74, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.00390625_u.png, id=54, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.00390625_u.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.00390625_u.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.00390625_u.png  used on 
 input line 291.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.0078125_u.png, id=75, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.0078125_u.png, id=55, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.0078125_u.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.0078125_u.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.0078125_u.png  used on i
 nput line 292.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.015625_u.png, id=76, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.015625_u.png, id=56, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.015625_u.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.015625_u.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.015625_u.png  used on in
 put line 293.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.03125_u.png, id=77, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.03125_u.png, id=57, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.03125_u.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.03125_u.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.03125_u.png  used on inp
 ut line 294.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.0625_u.png, id=78, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.0625_u.png, id=58, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.0625_u.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.0625_u.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.0625_u.png  used on inpu
 t line 295.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.125_u.png, id=79, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.125_u.png, id=59, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.125_u.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.125_u.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.125_u.png  used on input
  line 296.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.1875_u.png, id=80, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.1875_u.png, id=60, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.1875_u.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.1875_u.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.1875_u.png  used on inpu
 t line 297.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.25_u.png, id=81, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.25_u.png, id=61, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.25_u.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.25_u.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.25_u.png  used on input 
 line 298.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.5_u.png, id=82, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.5_u.png, id=62, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.5_u.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.5_u.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.5_u.png  used on input l
 ine 299.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty1.0_u.png, id=83, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty1.0_u.png, id=63, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty1.0_u.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty1.0_u.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty1.0_u.png  used on input l
 ine 300.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
 Package epstopdf Info: Source file: <Figures/uzmean_cmap.eps>
-(epstopdf)                    date: 2024-02-21 17:13:14
+(epstopdf)                    date: 2024-12-17 17:09:37
 (epstopdf)                    size: 361730 bytes
 (epstopdf)             Output file: <Figures/uzmean_cmap-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-21 17:42:06
+(epstopdf)                    date: 2024-12-17 17:09:37
 (epstopdf)                    size: 9261 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/uzmean_cmap-eps-co
 nverted-to.pdf Figures/uzmean_cmap.eps>
 (epstopdf)             \includegraphics on input line 301.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/uzmean_cmap-eps-converted-to.pdf, id=84, 867.24pt x 144.54pt>
+<Figures/uzmean_cmap-eps-converted-to.pdf, id=64, 867.24pt x 144.54pt>
 File: Figures/uzmean_cmap-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/uzmean_cmap-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/uzmean_cmap-eps-converted-to.pdf  used on inpu
 t line 301.
 (pdftex.def)             Requested size: 192.0pt x 31.99959pt.
-<Figures/meanfield_rotz0_roty0_T.png, id=85, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0_T.png, id=65, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0_T.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0_T.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0_T.png  used on input lin
 e 327.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.00390625_T.png, id=86, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.00390625_T.png, id=66, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.00390625_T.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.00390625_T.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.00390625_T.png  used on 
 input line 328.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.0078125_T.png, id=87, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.0078125_T.png, id=67, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.0078125_T.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.0078125_T.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.0078125_T.png  used on i
 nput line 329.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.015625_T.png, id=88, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.015625_T.png, id=68, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.015625_T.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.015625_T.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.015625_T.png  used on in
 put line 330.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.03125_T.png, id=89, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.03125_T.png, id=69, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.03125_T.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.03125_T.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.03125_T.png  used on inp
 ut line 331.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.0625_T.png, id=90, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.0625_T.png, id=70, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.0625_T.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.0625_T.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.0625_T.png  used on inpu
 t line 332.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.125_T.png, id=91, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.125_T.png, id=71, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.125_T.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.125_T.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.125_T.png  used on input
  line 333.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.1875_T.png, id=92, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.1875_T.png, id=72, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.1875_T.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.1875_T.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.1875_T.png  used on inpu
 t line 334.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.25_T.png, id=93, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.25_T.png, id=73, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.25_T.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.25_T.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.25_T.png  used on input 
 line 335.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty0.5_T.png, id=94, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty0.5_T.png, id=74, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty0.5_T.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty0.5_T.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty0.5_T.png  used on input l
 ine 336.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
-<Figures/meanfield_rotz0_roty1.0_T.png, id=95, 216.81pt x 216.81pt>
+<Figures/meanfield_rotz0_roty1.0_T.png, id=75, 216.81pt x 216.81pt>
 File: Figures/meanfield_rotz0_roty1.0_T.png Graphic file (type png)
 <use Figures/meanfield_rotz0_roty1.0_T.png>
 Package pdftex.def Info: Figures/meanfield_rotz0_roty1.0_T.png  used on input l
 ine 337.
 (pdftex.def)             Requested size: 56.9055pt x 56.9052pt.
 Package epstopdf Info: Source file: <Figures/uzmean_cmap.eps>
-(epstopdf)                    date: 2024-02-21 17:13:14
+(epstopdf)                    date: 2024-12-17 17:09:37
 (epstopdf)                    size: 361730 bytes
 (epstopdf)             Output file: <Figures/uzmean_cmap-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-21 17:42:06
+(epstopdf)                    date: 2024-12-17 17:09:37
 (epstopdf)                    size: 9261 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/uzmean_cmap-eps-co
 nverted-to.pdf Figures/uzmean_cmap.eps>
@@ -1606,17 +1606,17 @@ t line 338.
 (pdftex.def)             Requested size: 192.0pt x 31.99959pt.
 Package epstopdf Info: Source file: <Figures/prof_uzub_rotz0_roty0.00390625.eps
 >
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 206574 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 206529 bytes
 (epstopdf)             Output file: <Figures/prof_uzub_rotz0_roty0.00390625-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:23:08
-(epstopdf)                    size: 14898 bytes
+(epstopdf)                    date: 2024-12-17 17:13:32
+(epstopdf)                    size: 14937 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzub_rotz0_ro
 ty0.00390625-eps-converted-to.pdf Figures/prof_uzub_rotz0_roty0.00390625.eps>
 (epstopdf)             \includegraphics on input line 409.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzub_rotz0_roty0.00390625-eps-converted-to.pdf, id=96, 442.65375p
+<Figures/prof_uzub_rotz0_roty0.00390625-eps-converted-to.pdf, id=76, 442.65375p
 t x 370.38374pt>
 File: Figures/prof_uzub_rotz0_roty0.00390625-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -1626,17 +1626,17 @@ o.pdf  used on input line 409.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzub_rotz0_roty0.0078125.eps>
 
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 206266 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 206338 bytes
 (epstopdf)             Output file: <Figures/prof_uzub_rotz0_roty0.0078125-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:23:08
-(epstopdf)                    size: 14800 bytes
+(epstopdf)                    date: 2024-12-17 17:13:33
+(epstopdf)                    size: 14880 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzub_rotz0_ro
 ty0.0078125-eps-converted-to.pdf Figures/prof_uzub_rotz0_roty0.0078125.eps>
 (epstopdf)             \includegraphics on input line 410.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzub_rotz0_roty0.0078125-eps-converted-to.pdf, id=97, 442.65375pt
+<Figures/prof_uzub_rotz0_roty0.0078125-eps-converted-to.pdf, id=77, 442.65375pt
  x 370.38374pt>
 File: Figures/prof_uzub_rotz0_roty0.0078125-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -1645,17 +1645,17 @@ Package pdftex.def Info: Figures/prof_uzub_rotz0_roty0.0078125-eps-converted-to
 .pdf  used on input line 410.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzub_rotz0_roty0.015625.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 207227 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 207168 bytes
 (epstopdf)             Output file: <Figures/prof_uzub_rotz0_roty0.015625-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:23:09
-(epstopdf)                    size: 15153 bytes
+(epstopdf)                    date: 2024-12-17 17:13:33
+(epstopdf)                    size: 15147 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzub_rotz0_ro
 ty0.015625-eps-converted-to.pdf Figures/prof_uzub_rotz0_roty0.015625.eps>
 (epstopdf)             \includegraphics on input line 411.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzub_rotz0_roty0.015625-eps-converted-to.pdf, id=98, 442.65375pt 
+<Figures/prof_uzub_rotz0_roty0.015625-eps-converted-to.pdf, id=78, 442.65375pt 
 x 370.38374pt>
 File: Figures/prof_uzub_rotz0_roty0.015625-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -1664,17 +1664,17 @@ Package pdftex.def Info: Figures/prof_uzub_rotz0_roty0.015625-eps-converted-to.
 pdf  used on input line 411.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzub_rotz0_roty0.03125.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 205776 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 205639 bytes
 (epstopdf)             Output file: <Figures/prof_uzub_rotz0_roty0.03125-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:23:09
-(epstopdf)                    size: 14700 bytes
+(epstopdf)                    date: 2024-12-17 17:13:33
+(epstopdf)                    size: 14664 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzub_rotz0_ro
 ty0.03125-eps-converted-to.pdf Figures/prof_uzub_rotz0_roty0.03125.eps>
 (epstopdf)             \includegraphics on input line 412.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzub_rotz0_roty0.03125-eps-converted-to.pdf, id=99, 442.65375pt x
+<Figures/prof_uzub_rotz0_roty0.03125-eps-converted-to.pdf, id=79, 442.65375pt x
  370.38374pt>
 File: Figures/prof_uzub_rotz0_roty0.03125-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -1683,18 +1683,18 @@ Package pdftex.def Info: Figures/prof_uzub_rotz0_roty0.03125-eps-converted-to.p
 df  used on input line 412.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzub_rotz0_roty0.0625.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 204290 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 204284 bytes
 (epstopdf)             Output file: <Figures/prof_uzub_rotz0_roty0.0625-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:23:10
-(epstopdf)                    size: 14346 bytes
+(epstopdf)                    date: 2024-12-17 17:13:34
+(epstopdf)                    size: 14274 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzub_rotz0_ro
 ty0.0625-eps-converted-to.pdf Figures/prof_uzub_rotz0_roty0.0625.eps>
 (epstopdf)             \includegraphics on input line 413.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzub_rotz0_roty0.0625-eps-converted-to.pdf, id=100, 442.65375pt x
- 370.38374pt>
+<Figures/prof_uzub_rotz0_roty0.0625-eps-converted-to.pdf, id=80, 442.65375pt x 
+370.38374pt>
 File: Figures/prof_uzub_rotz0_roty0.0625-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use Figures/prof_uzub_rotz0_roty0.0625-eps-converted-to.pdf>
@@ -1702,18 +1702,18 @@ Package pdftex.def Info: Figures/prof_uzub_rotz0_roty0.0625-eps-converted-to.pd
 f  used on input line 413.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzub_rotz0_roty0.125.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 203302 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 203268 bytes
 (epstopdf)             Output file: <Figures/prof_uzub_rotz0_roty0.125-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:03
-(epstopdf)                    size: 14053 bytes
+(epstopdf)                    date: 2024-12-17 17:13:34
+(epstopdf)                    size: 14046 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzub_rotz0_ro
 ty0.125-eps-converted-to.pdf Figures/prof_uzub_rotz0_roty0.125.eps>
 (epstopdf)             \includegraphics on input line 414.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzub_rotz0_roty0.125-eps-converted-to.pdf, id=101, 442.65375pt x 
-370.38374pt>
+<Figures/prof_uzub_rotz0_roty0.125-eps-converted-to.pdf, id=81, 442.65375pt x 3
+70.38374pt>
 File: Figures/prof_uzub_rotz0_roty0.125-eps-converted-to.pdf Graphic file (type
  pdf)
 <use Figures/prof_uzub_rotz0_roty0.125-eps-converted-to.pdf>
@@ -1721,18 +1721,18 @@ Package pdftex.def Info: Figures/prof_uzub_rotz0_roty0.125-eps-converted-to.pdf
   used on input line 414.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzub_rotz0_roty0.1875.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 202959 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 202926 bytes
 (epstopdf)             Output file: <Figures/prof_uzub_rotz0_roty0.1875-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:03
-(epstopdf)                    size: 14002 bytes
+(epstopdf)                    date: 2024-12-17 17:13:34
+(epstopdf)                    size: 14003 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzub_rotz0_ro
 ty0.1875-eps-converted-to.pdf Figures/prof_uzub_rotz0_roty0.1875.eps>
 (epstopdf)             \includegraphics on input line 415.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzub_rotz0_roty0.1875-eps-converted-to.pdf, id=102, 442.65375pt x
- 370.38374pt>
+<Figures/prof_uzub_rotz0_roty0.1875-eps-converted-to.pdf, id=82, 442.65375pt x 
+370.38374pt>
 File: Figures/prof_uzub_rotz0_roty0.1875-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use Figures/prof_uzub_rotz0_roty0.1875-eps-converted-to.pdf>
@@ -1740,18 +1740,18 @@ Package pdftex.def Info: Figures/prof_uzub_rotz0_roty0.1875-eps-converted-to.pd
 f  used on input line 415.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzub_rotz0_roty0.25.eps>
-(epstopdf)                    date: 2024-11-22 17:56:30
-(epstopdf)                    size: 202657 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 202614 bytes
 (epstopdf)             Output file: <Figures/prof_uzub_rotz0_roty0.25-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:04
-(epstopdf)                    size: 13889 bytes
+(epstopdf)                    date: 2024-12-17 17:13:35
+(epstopdf)                    size: 13876 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzub_rotz0_ro
 ty0.25-eps-converted-to.pdf Figures/prof_uzub_rotz0_roty0.25.eps>
 (epstopdf)             \includegraphics on input line 416.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzub_rotz0_roty0.25-eps-converted-to.pdf, id=103, 442.65375pt x 3
-70.38374pt>
+<Figures/prof_uzub_rotz0_roty0.25-eps-converted-to.pdf, id=83, 442.65375pt x 37
+0.38374pt>
 File: Figures/prof_uzub_rotz0_roty0.25-eps-converted-to.pdf Graphic file (type 
 pdf)
 <use Figures/prof_uzub_rotz0_roty0.25-eps-converted-to.pdf>
@@ -1759,18 +1759,18 @@ Package pdftex.def Info: Figures/prof_uzub_rotz0_roty0.25-eps-converted-to.pdf
  used on input line 416.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzub_rotz0_roty0.5.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 202678 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 202694 bytes
 (epstopdf)             Output file: <Figures/prof_uzub_rotz0_roty0.5-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:04
+(epstopdf)                    date: 2024-12-17 17:13:35
 (epstopdf)                    size: 13938 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzub_rotz0_ro
 ty0.5-eps-converted-to.pdf Figures/prof_uzub_rotz0_roty0.5.eps>
 (epstopdf)             \includegraphics on input line 417.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzub_rotz0_roty0.5-eps-converted-to.pdf, id=104, 442.65375pt x 37
-0.38374pt>
+<Figures/prof_uzub_rotz0_roty0.5-eps-converted-to.pdf, id=84, 442.65375pt x 370
+.38374pt>
 File: Figures/prof_uzub_rotz0_roty0.5-eps-converted-to.pdf Graphic file (type p
 df)
 <use Figures/prof_uzub_rotz0_roty0.5-eps-converted-to.pdf>
@@ -1778,18 +1778,18 @@ Package pdftex.def Info: Figures/prof_uzub_rotz0_roty0.5-eps-converted-to.pdf
 used on input line 417.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzub_rotz0_roty1.0.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 202881 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 202863 bytes
 (epstopdf)             Output file: <Figures/prof_uzub_rotz0_roty1.0-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:05
-(epstopdf)                    size: 13888 bytes
+(epstopdf)                    date: 2024-12-17 17:13:35
+(epstopdf)                    size: 13873 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzub_rotz0_ro
 ty1.0-eps-converted-to.pdf Figures/prof_uzub_rotz0_roty1.0.eps>
 (epstopdf)             \includegraphics on input line 418.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzub_rotz0_roty1.0-eps-converted-to.pdf, id=105, 442.65375pt x 37
-0.38374pt>
+<Figures/prof_uzub_rotz0_roty1.0-eps-converted-to.pdf, id=85, 442.65375pt x 370
+.38374pt>
 File: Figures/prof_uzub_rotz0_roty1.0-eps-converted-to.pdf Graphic file (type p
 df)
 <use Figures/prof_uzub_rotz0_roty1.0-eps-converted-to.pdf>
@@ -1797,17 +1797,17 @@ Package pdftex.def Info: Figures/prof_uzub_rotz0_roty1.0-eps-converted-to.pdf
 used on input line 418.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/theta_cmap_half.eps>
-(epstopdf)                    date: 2024-02-21 17:46:32
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 287266 bytes
 (epstopdf)             Output file: <Figures/theta_cmap_half-eps-converted-to.p
 df>
-(epstopdf)                    date: 2024-02-21 17:47:37
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 9810 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/theta_cmap_half-ep
 s-converted-to.pdf Figures/theta_cmap_half.eps>
 (epstopdf)             \includegraphics on input line 419.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/theta_cmap_half-eps-converted-to.pdf, id=106, 867.24pt x 180.675pt>
+<Figures/theta_cmap_half-eps-converted-to.pdf, id=86, 867.24pt x 180.675pt>
 File: Figures/theta_cmap_half-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/theta_cmap_half-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/theta_cmap_half-eps-converted-to.pdf  used on 
@@ -1815,18 +1815,18 @@ input line 419.
 (pdftex.def)             Requested size: 192.0pt x 39.99948pt.
 Package epstopdf Info: Source file: <Figures/prof_tttb_rotz0_roty0.00390625.eps
 >
-(epstopdf)                    date: 2024-11-22 17:56:30
-(epstopdf)                    size: 203115 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 203142 bytes
 (epstopdf)             Output file: <Figures/prof_tttb_rotz0_roty0.00390625-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:05
-(epstopdf)                    size: 14424 bytes
+(epstopdf)                    date: 2024-12-17 17:13:36
+(epstopdf)                    size: 14397 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tttb_rotz0_ro
 ty0.00390625-eps-converted-to.pdf Figures/prof_tttb_rotz0_roty0.00390625.eps>
 (epstopdf)             \includegraphics on input line 446.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tttb_rotz0_roty0.00390625-eps-converted-to.pdf, id=107, 442.65375
-pt x 370.38374pt>
+<Figures/prof_tttb_rotz0_roty0.00390625-eps-converted-to.pdf, id=87, 442.65375p
+t x 370.38374pt>
 File: Figures/prof_tttb_rotz0_roty0.00390625-eps-converted-to.pdf Graphic file 
 (type pdf)
 <use Figures/prof_tttb_rotz0_roty0.00390625-eps-converted-to.pdf>
@@ -1835,18 +1835,18 @@ o.pdf  used on input line 446.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tttb_rotz0_roty0.0078125.eps>
 
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 203159 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 203114 bytes
 (epstopdf)             Output file: <Figures/prof_tttb_rotz0_roty0.0078125-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:06
-(epstopdf)                    size: 14418 bytes
+(epstopdf)                    date: 2024-12-17 17:13:36
+(epstopdf)                    size: 14435 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tttb_rotz0_ro
 ty0.0078125-eps-converted-to.pdf Figures/prof_tttb_rotz0_roty0.0078125.eps>
 (epstopdf)             \includegraphics on input line 447.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tttb_rotz0_roty0.0078125-eps-converted-to.pdf, id=108, 442.65375p
-t x 370.38374pt>
+<Figures/prof_tttb_rotz0_roty0.0078125-eps-converted-to.pdf, id=88, 442.65375pt
+ x 370.38374pt>
 File: Figures/prof_tttb_rotz0_roty0.0078125-eps-converted-to.pdf Graphic file (
 type pdf)
 <use Figures/prof_tttb_rotz0_roty0.0078125-eps-converted-to.pdf>
@@ -1854,18 +1854,18 @@ Package pdftex.def Info: Figures/prof_tttb_rotz0_roty0.0078125-eps-converted-to
 .pdf  used on input line 447.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tttb_rotz0_roty0.015625.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 203195 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 203200 bytes
 (epstopdf)             Output file: <Figures/prof_tttb_rotz0_roty0.015625-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:06
-(epstopdf)                    size: 14513 bytes
+(epstopdf)                    date: 2024-12-17 17:13:36
+(epstopdf)                    size: 14520 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tttb_rotz0_ro
 ty0.015625-eps-converted-to.pdf Figures/prof_tttb_rotz0_roty0.015625.eps>
 (epstopdf)             \includegraphics on input line 448.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tttb_rotz0_roty0.015625-eps-converted-to.pdf, id=109, 442.65375pt
- x 370.38374pt>
+<Figures/prof_tttb_rotz0_roty0.015625-eps-converted-to.pdf, id=89, 442.65375pt 
+x 370.38374pt>
 File: Figures/prof_tttb_rotz0_roty0.015625-eps-converted-to.pdf Graphic file (t
 ype pdf)
 <use Figures/prof_tttb_rotz0_roty0.015625-eps-converted-to.pdf>
@@ -1873,18 +1873,18 @@ Package pdftex.def Info: Figures/prof_tttb_rotz0_roty0.015625-eps-converted-to.
 pdf  used on input line 448.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tttb_rotz0_roty0.03125.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 201524 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 201578 bytes
 (epstopdf)             Output file: <Figures/prof_tttb_rotz0_roty0.03125-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:06
-(epstopdf)                    size: 14040 bytes
+(epstopdf)                    date: 2024-12-17 17:13:36
+(epstopdf)                    size: 13997 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tttb_rotz0_ro
 ty0.03125-eps-converted-to.pdf Figures/prof_tttb_rotz0_roty0.03125.eps>
 (epstopdf)             \includegraphics on input line 449.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tttb_rotz0_roty0.03125-eps-converted-to.pdf, id=110, 442.65375pt 
-x 370.38374pt>
+<Figures/prof_tttb_rotz0_roty0.03125-eps-converted-to.pdf, id=90, 442.65375pt x
+ 370.38374pt>
 File: Figures/prof_tttb_rotz0_roty0.03125-eps-converted-to.pdf Graphic file (ty
 pe pdf)
 <use Figures/prof_tttb_rotz0_roty0.03125-eps-converted-to.pdf>
@@ -1892,18 +1892,18 @@ Package pdftex.def Info: Figures/prof_tttb_rotz0_roty0.03125-eps-converted-to.p
 df  used on input line 449.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tttb_rotz0_roty0.0625.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 200827 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 200797 bytes
 (epstopdf)             Output file: <Figures/prof_tttb_rotz0_roty0.0625-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:07
-(epstopdf)                    size: 13896 bytes
+(epstopdf)                    date: 2024-12-17 17:13:37
+(epstopdf)                    size: 13903 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tttb_rotz0_ro
 ty0.0625-eps-converted-to.pdf Figures/prof_tttb_rotz0_roty0.0625.eps>
 (epstopdf)             \includegraphics on input line 450.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tttb_rotz0_roty0.0625-eps-converted-to.pdf, id=111, 442.65375pt x
- 370.38374pt>
+<Figures/prof_tttb_rotz0_roty0.0625-eps-converted-to.pdf, id=91, 442.65375pt x 
+370.38374pt>
 File: Figures/prof_tttb_rotz0_roty0.0625-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use Figures/prof_tttb_rotz0_roty0.0625-eps-converted-to.pdf>
@@ -1911,18 +1911,18 @@ Package pdftex.def Info: Figures/prof_tttb_rotz0_roty0.0625-eps-converted-to.pd
 f  used on input line 450.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tttb_rotz0_roty0.125.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 199615 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 199698 bytes
 (epstopdf)             Output file: <Figures/prof_tttb_rotz0_roty0.125-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:07
-(epstopdf)                    size: 13565 bytes
+(epstopdf)                    date: 2024-12-17 17:13:37
+(epstopdf)                    size: 13580 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tttb_rotz0_ro
 ty0.125-eps-converted-to.pdf Figures/prof_tttb_rotz0_roty0.125.eps>
 (epstopdf)             \includegraphics on input line 451.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tttb_rotz0_roty0.125-eps-converted-to.pdf, id=112, 442.65375pt x 
-370.38374pt>
+<Figures/prof_tttb_rotz0_roty0.125-eps-converted-to.pdf, id=92, 442.65375pt x 3
+70.38374pt>
 File: Figures/prof_tttb_rotz0_roty0.125-eps-converted-to.pdf Graphic file (type
  pdf)
 <use Figures/prof_tttb_rotz0_roty0.125-eps-converted-to.pdf>
@@ -1930,18 +1930,18 @@ Package pdftex.def Info: Figures/prof_tttb_rotz0_roty0.125-eps-converted-to.pdf
   used on input line 451.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tttb_rotz0_roty0.1875.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 199872 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 199896 bytes
 (epstopdf)             Output file: <Figures/prof_tttb_rotz0_roty0.1875-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:08
-(epstopdf)                    size: 13633 bytes
+(epstopdf)                    date: 2024-12-17 17:13:37
+(epstopdf)                    size: 13647 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tttb_rotz0_ro
 ty0.1875-eps-converted-to.pdf Figures/prof_tttb_rotz0_roty0.1875.eps>
 (epstopdf)             \includegraphics on input line 452.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tttb_rotz0_roty0.1875-eps-converted-to.pdf, id=113, 442.65375pt x
- 370.38374pt>
+<Figures/prof_tttb_rotz0_roty0.1875-eps-converted-to.pdf, id=93, 442.65375pt x 
+370.38374pt>
 File: Figures/prof_tttb_rotz0_roty0.1875-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use Figures/prof_tttb_rotz0_roty0.1875-eps-converted-to.pdf>
@@ -1949,18 +1949,18 @@ Package pdftex.def Info: Figures/prof_tttb_rotz0_roty0.1875-eps-converted-to.pd
 f  used on input line 452.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tttb_rotz0_roty0.25.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 200434 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 200510 bytes
 (epstopdf)             Output file: <Figures/prof_tttb_rotz0_roty0.25-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:08
-(epstopdf)                    size: 13861 bytes
+(epstopdf)                    date: 2024-12-17 17:13:38
+(epstopdf)                    size: 13892 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tttb_rotz0_ro
 ty0.25-eps-converted-to.pdf Figures/prof_tttb_rotz0_roty0.25.eps>
 (epstopdf)             \includegraphics on input line 453.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tttb_rotz0_roty0.25-eps-converted-to.pdf, id=114, 442.65375pt x 3
-70.38374pt>
+<Figures/prof_tttb_rotz0_roty0.25-eps-converted-to.pdf, id=94, 442.65375pt x 37
+0.38374pt>
 File: Figures/prof_tttb_rotz0_roty0.25-eps-converted-to.pdf Graphic file (type 
 pdf)
 <use Figures/prof_tttb_rotz0_roty0.25-eps-converted-to.pdf>
@@ -1968,18 +1968,18 @@ Package pdftex.def Info: Figures/prof_tttb_rotz0_roty0.25-eps-converted-to.pdf
  used on input line 453.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tttb_rotz0_roty0.5.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 202335 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 202341 bytes
 (epstopdf)             Output file: <Figures/prof_tttb_rotz0_roty0.5-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:09
-(epstopdf)                    size: 14577 bytes
+(epstopdf)                    date: 2024-12-17 17:13:38
+(epstopdf)                    size: 14586 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tttb_rotz0_ro
 ty0.5-eps-converted-to.pdf Figures/prof_tttb_rotz0_roty0.5.eps>
 (epstopdf)             \includegraphics on input line 454.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tttb_rotz0_roty0.5-eps-converted-to.pdf, id=115, 442.65375pt x 37
-0.38374pt>
+<Figures/prof_tttb_rotz0_roty0.5-eps-converted-to.pdf, id=95, 442.65375pt x 370
+.38374pt>
 File: Figures/prof_tttb_rotz0_roty0.5-eps-converted-to.pdf Graphic file (type p
 df)
 <use Figures/prof_tttb_rotz0_roty0.5-eps-converted-to.pdf>
@@ -1987,18 +1987,18 @@ Package pdftex.def Info: Figures/prof_tttb_rotz0_roty0.5-eps-converted-to.pdf
 used on input line 454.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tttb_rotz0_roty1.0.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 201931 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 201934 bytes
 (epstopdf)             Output file: <Figures/prof_tttb_rotz0_roty1.0-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2024-11-22 18:25:09
-(epstopdf)                    size: 14581 bytes
+(epstopdf)                    date: 2024-12-17 17:13:38
+(epstopdf)                    size: 14555 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tttb_rotz0_ro
 ty1.0-eps-converted-to.pdf Figures/prof_tttb_rotz0_roty1.0.eps>
 (epstopdf)             \includegraphics on input line 455.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tttb_rotz0_roty1.0-eps-converted-to.pdf, id=116, 442.65375pt x 37
-0.38374pt>
+<Figures/prof_tttb_rotz0_roty1.0-eps-converted-to.pdf, id=96, 442.65375pt x 370
+.38374pt>
 File: Figures/prof_tttb_rotz0_roty1.0-eps-converted-to.pdf Graphic file (type p
 df)
 <use Figures/prof_tttb_rotz0_roty1.0-eps-converted-to.pdf>
@@ -2006,11 +2006,11 @@ Package pdftex.def Info: Figures/prof_tttb_rotz0_roty1.0-eps-converted-to.pdf
 used on input line 455.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/theta_cmap_half.eps>
-(epstopdf)                    date: 2024-02-21 17:46:32
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 287266 bytes
 (epstopdf)             Output file: <Figures/theta_cmap_half-eps-converted-to.p
 df>
-(epstopdf)                    date: 2024-02-21 17:47:37
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 9810 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/theta_cmap_half-ep
 s-converted-to.pdf Figures/theta_cmap_half.eps>
@@ -2023,19 +2023,19 @@ input line 456.
 (pdftex.def)             Requested size: 192.0pt x 39.99948pt.
 Package epstopdf Info: Source file: <Figures/prof_uzplus_rotz0_roty0.00390625.e
 ps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 218829 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 218864 bytes
 (epstopdf)             Output file: <Figures/prof_uzplus_rotz0_roty0.00390625-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:34:50
-(epstopdf)                    size: 20666 bytes
+(epstopdf)                    date: 2024-12-17 17:13:39
+(epstopdf)                    size: 20714 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzplus_rotz0_
 roty0.00390625-eps-converted-to.pdf Figures/prof_uzplus_rotz0_roty0.00390625.ep
 s>
 (epstopdf)             \includegraphics on input line 484.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzplus_rotz0_roty0.00390625-eps-converted-to.pdf, id=117, 442.653
-75pt x 370.38374pt>
+<Figures/prof_uzplus_rotz0_roty0.00390625-eps-converted-to.pdf, id=97, 442.6537
+5pt x 370.38374pt>
 File: Figures/prof_uzplus_rotz0_roty0.00390625-eps-converted-to.pdf Graphic fil
 e (type pdf)
 <use Figures/prof_uzplus_rotz0_roty0.00390625-eps-converted-to.pdf>
@@ -2044,19 +2044,19 @@ Package pdftex.def Info: Figures/prof_uzplus_rotz0_roty0.00390625-eps-converted
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzplus_rotz0_roty0.0078125.ep
 s>
-(epstopdf)                    date: 2024-11-22 17:56:30
-(epstopdf)                    size: 217288 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 217183 bytes
 (epstopdf)             Output file: <Figures/prof_uzplus_rotz0_roty0.0078125-ep
 s-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:34:51
-(epstopdf)                    size: 19957 bytes
+(epstopdf)                    date: 2024-12-17 17:13:39
+(epstopdf)                    size: 19901 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzplus_rotz0_
 roty0.0078125-eps-converted-to.pdf Figures/prof_uzplus_rotz0_roty0.0078125.eps>
 
 (epstopdf)             \includegraphics on input line 485.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzplus_rotz0_roty0.0078125-eps-converted-to.pdf, id=118, 442.6537
-5pt x 370.38374pt>
+<Figures/prof_uzplus_rotz0_roty0.0078125-eps-converted-to.pdf, id=98, 442.65375
+pt x 370.38374pt>
 File: Figures/prof_uzplus_rotz0_roty0.0078125-eps-converted-to.pdf Graphic file
  (type pdf)
 <use Figures/prof_uzplus_rotz0_roty0.0078125-eps-converted-to.pdf>
@@ -2065,18 +2065,18 @@ to.pdf  used on input line 485.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzplus_rotz0_roty0.015625.eps
 >
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 213486 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 213516 bytes
 (epstopdf)             Output file: <Figures/prof_uzplus_rotz0_roty0.015625-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:34:52
-(epstopdf)                    size: 18459 bytes
+(epstopdf)                    date: 2024-12-17 17:13:39
+(epstopdf)                    size: 18476 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzplus_rotz0_
 roty0.015625-eps-converted-to.pdf Figures/prof_uzplus_rotz0_roty0.015625.eps>
 (epstopdf)             \includegraphics on input line 486.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzplus_rotz0_roty0.015625-eps-converted-to.pdf, id=119, 442.65375
-pt x 370.38374pt>
+<Figures/prof_uzplus_rotz0_roty0.015625-eps-converted-to.pdf, id=99, 442.65375p
+t x 370.38374pt>
 File: Figures/prof_uzplus_rotz0_roty0.015625-eps-converted-to.pdf Graphic file 
 (type pdf)
 <use Figures/prof_uzplus_rotz0_roty0.015625-eps-converted-to.pdf>
@@ -2085,17 +2085,17 @@ o.pdf  used on input line 486.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzplus_rotz0_roty0.03125.eps>
 
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 210405 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 210408 bytes
 (epstopdf)             Output file: <Figures/prof_uzplus_rotz0_roty0.03125-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:34:53
-(epstopdf)                    size: 17164 bytes
+(epstopdf)                    date: 2024-12-17 17:13:39
+(epstopdf)                    size: 17141 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzplus_rotz0_
 roty0.03125-eps-converted-to.pdf Figures/prof_uzplus_rotz0_roty0.03125.eps>
 (epstopdf)             \includegraphics on input line 487.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzplus_rotz0_roty0.03125-eps-converted-to.pdf, id=120, 442.65375p
+<Figures/prof_uzplus_rotz0_roty0.03125-eps-converted-to.pdf, id=100, 442.65375p
 t x 370.38374pt>
 File: Figures/prof_uzplus_rotz0_roty0.03125-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2104,17 +2104,17 @@ Package pdftex.def Info: Figures/prof_uzplus_rotz0_roty0.03125-eps-converted-to
 .pdf  used on input line 487.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzplus_rotz0_roty0.0625.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 209569 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 209548 bytes
 (epstopdf)             Output file: <Figures/prof_uzplus_rotz0_roty0.0625-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:34:55
-(epstopdf)                    size: 16680 bytes
+(epstopdf)                    date: 2024-12-17 17:13:40
+(epstopdf)                    size: 16668 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzplus_rotz0_
 roty0.0625-eps-converted-to.pdf Figures/prof_uzplus_rotz0_roty0.0625.eps>
 (epstopdf)             \includegraphics on input line 488.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzplus_rotz0_roty0.0625-eps-converted-to.pdf, id=121, 442.65375pt
+<Figures/prof_uzplus_rotz0_roty0.0625-eps-converted-to.pdf, id=101, 442.65375pt
  x 370.38374pt>
 File: Figures/prof_uzplus_rotz0_roty0.0625-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2123,17 +2123,17 @@ Package pdftex.def Info: Figures/prof_uzplus_rotz0_roty0.0625-eps-converted-to.
 pdf  used on input line 488.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzplus_rotz0_roty0.125.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 209572 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 209519 bytes
 (epstopdf)             Output file: <Figures/prof_uzplus_rotz0_roty0.125-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:34:56
-(epstopdf)                    size: 16793 bytes
+(epstopdf)                    date: 2024-12-17 17:13:40
+(epstopdf)                    size: 16771 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzplus_rotz0_
 roty0.125-eps-converted-to.pdf Figures/prof_uzplus_rotz0_roty0.125.eps>
 (epstopdf)             \includegraphics on input line 489.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzplus_rotz0_roty0.125-eps-converted-to.pdf, id=122, 442.65375pt 
+<Figures/prof_uzplus_rotz0_roty0.125-eps-converted-to.pdf, id=102, 442.65375pt 
 x 370.38374pt>
 File: Figures/prof_uzplus_rotz0_roty0.125-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -2142,17 +2142,17 @@ Package pdftex.def Info: Figures/prof_uzplus_rotz0_roty0.125-eps-converted-to.p
 df  used on input line 489.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzplus_rotz0_roty0.1875.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 210860 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 210797 bytes
 (epstopdf)             Output file: <Figures/prof_uzplus_rotz0_roty0.1875-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:34:57
-(epstopdf)                    size: 17343 bytes
+(epstopdf)                    date: 2024-12-17 17:13:40
+(epstopdf)                    size: 17340 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzplus_rotz0_
 roty0.1875-eps-converted-to.pdf Figures/prof_uzplus_rotz0_roty0.1875.eps>
 (epstopdf)             \includegraphics on input line 490.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzplus_rotz0_roty0.1875-eps-converted-to.pdf, id=123, 442.65375pt
+<Figures/prof_uzplus_rotz0_roty0.1875-eps-converted-to.pdf, id=103, 442.65375pt
  x 370.38374pt>
 File: Figures/prof_uzplus_rotz0_roty0.1875-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2161,17 +2161,17 @@ Package pdftex.def Info: Figures/prof_uzplus_rotz0_roty0.1875-eps-converted-to.
 pdf  used on input line 490.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzplus_rotz0_roty0.25.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 212807 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 212830 bytes
 (epstopdf)             Output file: <Figures/prof_uzplus_rotz0_roty0.25-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:34:58
-(epstopdf)                    size: 18197 bytes
+(epstopdf)                    date: 2024-12-17 17:13:41
+(epstopdf)                    size: 18263 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzplus_rotz0_
 roty0.25-eps-converted-to.pdf Figures/prof_uzplus_rotz0_roty0.25.eps>
 (epstopdf)             \includegraphics on input line 491.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzplus_rotz0_roty0.25-eps-converted-to.pdf, id=124, 442.65375pt x
+<Figures/prof_uzplus_rotz0_roty0.25-eps-converted-to.pdf, id=104, 442.65375pt x
  370.38374pt>
 File: Figures/prof_uzplus_rotz0_roty0.25-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -2180,17 +2180,17 @@ Package pdftex.def Info: Figures/prof_uzplus_rotz0_roty0.25-eps-converted-to.pd
 f  used on input line 491.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzplus_rotz0_roty0.5.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 213144 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 213163 bytes
 (epstopdf)             Output file: <Figures/prof_uzplus_rotz0_roty0.5-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:00
-(epstopdf)                    size: 18408 bytes
+(epstopdf)                    date: 2024-12-17 17:13:41
+(epstopdf)                    size: 18426 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzplus_rotz0_
 roty0.5-eps-converted-to.pdf Figures/prof_uzplus_rotz0_roty0.5.eps>
 (epstopdf)             \includegraphics on input line 492.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzplus_rotz0_roty0.5-eps-converted-to.pdf, id=125, 442.65375pt x 
+<Figures/prof_uzplus_rotz0_roty0.5-eps-converted-to.pdf, id=105, 442.65375pt x 
 370.38374pt>
 File: Figures/prof_uzplus_rotz0_roty0.5-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -2199,17 +2199,17 @@ Package pdftex.def Info: Figures/prof_uzplus_rotz0_roty0.5-eps-converted-to.pdf
   used on input line 492.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzplus_rotz0_roty1.0.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 211273 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 211233 bytes
 (epstopdf)             Output file: <Figures/prof_uzplus_rotz0_roty1.0-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:01
-(epstopdf)                    size: 17682 bytes
+(epstopdf)                    date: 2024-12-17 17:13:41
+(epstopdf)                    size: 17671 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzplus_rotz0_
 roty1.0-eps-converted-to.pdf Figures/prof_uzplus_rotz0_roty1.0.eps>
 (epstopdf)             \includegraphics on input line 493.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzplus_rotz0_roty1.0-eps-converted-to.pdf, id=126, 442.65375pt x 
+<Figures/prof_uzplus_rotz0_roty1.0-eps-converted-to.pdf, id=106, 442.65375pt x 
 370.38374pt>
 File: Figures/prof_uzplus_rotz0_roty1.0-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -2218,16 +2218,16 @@ Package pdftex.def Info: Figures/prof_uzplus_rotz0_roty1.0-eps-converted-to.pdf
   used on input line 493.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/theta_cmap.eps>
-(epstopdf)                    date: 2024-02-21 17:45:40
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 336930 bytes
 (epstopdf)             Output file: <Figures/theta_cmap-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-21 17:47:37
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 10205 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/theta_cmap-eps-con
 verted-to.pdf Figures/theta_cmap.eps>
 (epstopdf)             \includegraphics on input line 494.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/theta_cmap-eps-converted-to.pdf, id=127, 867.24pt x 180.675pt>
+<Figures/theta_cmap-eps-converted-to.pdf, id=107, 867.24pt x 180.675pt>
 File: Figures/theta_cmap-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/theta_cmap-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/theta_cmap-eps-converted-to.pdf  used on input
@@ -2239,18 +2239,18 @@ LaTeX Warning: Float too large for page by 9.87616pt on input line 518.
 
 Package epstopdf Info: Source file: <Figures/prof_ttplus_rotz0_roty0.00390625.e
 ps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 218632 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 218584 bytes
 (epstopdf)             Output file: <Figures/prof_ttplus_rotz0_roty0.00390625-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:02
-(epstopdf)                    size: 20522 bytes
+(epstopdf)                    date: 2024-12-17 17:13:42
+(epstopdf)                    size: 20586 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttplus_rotz0_
 roty0.00390625-eps-converted-to.pdf Figures/prof_ttplus_rotz0_roty0.00390625.ep
 s>
 (epstopdf)             \includegraphics on input line 522.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttplus_rotz0_roty0.00390625-eps-converted-to.pdf, id=128, 442.653
+<Figures/prof_ttplus_rotz0_roty0.00390625-eps-converted-to.pdf, id=108, 442.653
 75pt x 370.38374pt>
 File: Figures/prof_ttplus_rotz0_roty0.00390625-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -2260,18 +2260,18 @@ Package pdftex.def Info: Figures/prof_ttplus_rotz0_roty0.00390625-eps-converted
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttplus_rotz0_roty0.0078125.ep
 s>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 216794 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 216832 bytes
 (epstopdf)             Output file: <Figures/prof_ttplus_rotz0_roty0.0078125-ep
 s-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:03
-(epstopdf)                    size: 19750 bytes
+(epstopdf)                    date: 2024-12-17 17:13:42
+(epstopdf)                    size: 19715 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttplus_rotz0_
 roty0.0078125-eps-converted-to.pdf Figures/prof_ttplus_rotz0_roty0.0078125.eps>
 
 (epstopdf)             \includegraphics on input line 523.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttplus_rotz0_roty0.0078125-eps-converted-to.pdf, id=129, 442.6537
+<Figures/prof_ttplus_rotz0_roty0.0078125-eps-converted-to.pdf, id=109, 442.6537
 5pt x 370.38374pt>
 File: Figures/prof_ttplus_rotz0_roty0.0078125-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -2281,17 +2281,17 @@ to.pdf  used on input line 523.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttplus_rotz0_roty0.015625.eps
 >
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 213310 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 213272 bytes
 (epstopdf)             Output file: <Figures/prof_ttplus_rotz0_roty0.015625-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:04
-(epstopdf)                    size: 18380 bytes
+(epstopdf)                    date: 2024-12-17 17:13:42
+(epstopdf)                    size: 18366 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttplus_rotz0_
 roty0.015625-eps-converted-to.pdf Figures/prof_ttplus_rotz0_roty0.015625.eps>
 (epstopdf)             \includegraphics on input line 524.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttplus_rotz0_roty0.015625-eps-converted-to.pdf, id=130, 442.65375
+<Figures/prof_ttplus_rotz0_roty0.015625-eps-converted-to.pdf, id=110, 442.65375
 pt x 370.38374pt>
 File: Figures/prof_ttplus_rotz0_roty0.015625-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -2301,17 +2301,17 @@ o.pdf  used on input line 524.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttplus_rotz0_roty0.03125.eps>
 
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 210118 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 210122 bytes
 (epstopdf)             Output file: <Figures/prof_ttplus_rotz0_roty0.03125-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:06
-(epstopdf)                    size: 17027 bytes
+(epstopdf)                    date: 2024-12-17 17:13:43
+(epstopdf)                    size: 17005 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttplus_rotz0_
 roty0.03125-eps-converted-to.pdf Figures/prof_ttplus_rotz0_roty0.03125.eps>
 (epstopdf)             \includegraphics on input line 525.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttplus_rotz0_roty0.03125-eps-converted-to.pdf, id=131, 442.65375p
+<Figures/prof_ttplus_rotz0_roty0.03125-eps-converted-to.pdf, id=111, 442.65375p
 t x 370.38374pt>
 File: Figures/prof_ttplus_rotz0_roty0.03125-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2320,17 +2320,17 @@ Package pdftex.def Info: Figures/prof_ttplus_rotz0_roty0.03125-eps-converted-to
 .pdf  used on input line 525.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttplus_rotz0_roty0.0625.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 208422 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 208438 bytes
 (epstopdf)             Output file: <Figures/prof_ttplus_rotz0_roty0.0625-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:07
-(epstopdf)                    size: 16258 bytes
+(epstopdf)                    date: 2024-12-17 17:13:43
+(epstopdf)                    size: 16275 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttplus_rotz0_
 roty0.0625-eps-converted-to.pdf Figures/prof_ttplus_rotz0_roty0.0625.eps>
 (epstopdf)             \includegraphics on input line 526.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttplus_rotz0_roty0.0625-eps-converted-to.pdf, id=132, 442.65375pt
+<Figures/prof_ttplus_rotz0_roty0.0625-eps-converted-to.pdf, id=112, 442.65375pt
  x 370.38374pt>
 File: Figures/prof_ttplus_rotz0_roty0.0625-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2339,17 +2339,17 @@ Package pdftex.def Info: Figures/prof_ttplus_rotz0_roty0.0625-eps-converted-to.
 pdf  used on input line 526.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttplus_rotz0_roty0.125.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 207855 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 207819 bytes
 (epstopdf)             Output file: <Figures/prof_ttplus_rotz0_roty0.125-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:08
-(epstopdf)                    size: 16080 bytes
+(epstopdf)                    date: 2024-12-17 17:13:43
+(epstopdf)                    size: 15985 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttplus_rotz0_
 roty0.125-eps-converted-to.pdf Figures/prof_ttplus_rotz0_roty0.125.eps>
 (epstopdf)             \includegraphics on input line 527.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttplus_rotz0_roty0.125-eps-converted-to.pdf, id=133, 442.65375pt 
+<Figures/prof_ttplus_rotz0_roty0.125-eps-converted-to.pdf, id=113, 442.65375pt 
 x 370.38374pt>
 File: Figures/prof_ttplus_rotz0_roty0.125-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -2358,17 +2358,17 @@ Package pdftex.def Info: Figures/prof_ttplus_rotz0_roty0.125-eps-converted-to.p
 df  used on input line 527.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttplus_rotz0_roty0.1875.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 208650 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 208566 bytes
 (epstopdf)             Output file: <Figures/prof_ttplus_rotz0_roty0.1875-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:10
-(epstopdf)                    size: 16369 bytes
+(epstopdf)                    date: 2024-12-17 17:13:43
+(epstopdf)                    size: 16381 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttplus_rotz0_
 roty0.1875-eps-converted-to.pdf Figures/prof_ttplus_rotz0_roty0.1875.eps>
 (epstopdf)             \includegraphics on input line 528.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttplus_rotz0_roty0.1875-eps-converted-to.pdf, id=134, 442.65375pt
+<Figures/prof_ttplus_rotz0_roty0.1875-eps-converted-to.pdf, id=114, 442.65375pt
  x 370.38374pt>
 File: Figures/prof_ttplus_rotz0_roty0.1875-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2377,17 +2377,17 @@ Package pdftex.def Info: Figures/prof_ttplus_rotz0_roty0.1875-eps-converted-to.
 pdf  used on input line 528.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttplus_rotz0_roty0.25.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 210381 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 210337 bytes
 (epstopdf)             Output file: <Figures/prof_ttplus_rotz0_roty0.25-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:11
-(epstopdf)                    size: 17090 bytes
+(epstopdf)                    date: 2024-12-17 17:13:44
+(epstopdf)                    size: 17080 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttplus_rotz0_
 roty0.25-eps-converted-to.pdf Figures/prof_ttplus_rotz0_roty0.25.eps>
 (epstopdf)             \includegraphics on input line 529.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttplus_rotz0_roty0.25-eps-converted-to.pdf, id=135, 442.65375pt x
+<Figures/prof_ttplus_rotz0_roty0.25-eps-converted-to.pdf, id=115, 442.65375pt x
  370.38374pt>
 File: Figures/prof_ttplus_rotz0_roty0.25-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -2396,17 +2396,17 @@ Package pdftex.def Info: Figures/prof_ttplus_rotz0_roty0.25-eps-converted-to.pd
 f  used on input line 529.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttplus_rotz0_roty0.5.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 211752 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 211751 bytes
 (epstopdf)             Output file: <Figures/prof_ttplus_rotz0_roty0.5-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:12
-(epstopdf)                    size: 17740 bytes
+(epstopdf)                    date: 2024-12-17 17:13:44
+(epstopdf)                    size: 17777 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttplus_rotz0_
 roty0.5-eps-converted-to.pdf Figures/prof_ttplus_rotz0_roty0.5.eps>
 (epstopdf)             \includegraphics on input line 530.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttplus_rotz0_roty0.5-eps-converted-to.pdf, id=136, 442.65375pt x 
+<Figures/prof_ttplus_rotz0_roty0.5-eps-converted-to.pdf, id=116, 442.65375pt x 
 370.38374pt>
 File: Figures/prof_ttplus_rotz0_roty0.5-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -2415,17 +2415,17 @@ Package pdftex.def Info: Figures/prof_ttplus_rotz0_roty0.5-eps-converted-to.pdf
   used on input line 530.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttplus_rotz0_roty1.0.eps>
-(epstopdf)                    date: 2024-11-22 17:56:30
-(epstopdf)                    size: 208351 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 208321 bytes
 (epstopdf)             Output file: <Figures/prof_ttplus_rotz0_roty1.0-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:13
-(epstopdf)                    size: 16286 bytes
+(epstopdf)                    date: 2024-12-17 17:13:44
+(epstopdf)                    size: 16254 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttplus_rotz0_
 roty1.0-eps-converted-to.pdf Figures/prof_ttplus_rotz0_roty1.0.eps>
 (epstopdf)             \includegraphics on input line 531.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttplus_rotz0_roty1.0-eps-converted-to.pdf, id=137, 442.65375pt x 
+<Figures/prof_ttplus_rotz0_roty1.0-eps-converted-to.pdf, id=117, 442.65375pt x 
 370.38374pt>
 File: Figures/prof_ttplus_rotz0_roty1.0-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -2434,10 +2434,10 @@ Package pdftex.def Info: Figures/prof_ttplus_rotz0_roty1.0-eps-converted-to.pdf
   used on input line 531.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/theta_cmap.eps>
-(epstopdf)                    date: 2024-02-21 17:45:40
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 336930 bytes
 (epstopdf)             Output file: <Figures/theta_cmap-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-21 17:47:37
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 10205 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/theta_cmap-eps-con
 verted-to.pdf Figures/theta_cmap.eps>
@@ -2450,18 +2450,18 @@ Package pdftex.def Info: Figures/theta_cmap-eps-converted-to.pdf  used on input
 (pdftex.def)             Requested size: 192.0pt x 39.99948pt.
 Package epstopdf Info: Source file: <Figures/prof_uzstar_rotz0_roty0.00390625.e
 ps>
-(epstopdf)                    date: 2024-11-22 17:56:30
-(epstopdf)                    size: 218922 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 219099 bytes
 (epstopdf)             Output file: <Figures/prof_uzstar_rotz0_roty0.00390625-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:15
-(epstopdf)                    size: 17564 bytes
+(epstopdf)                    date: 2024-12-17 17:13:45
+(epstopdf)                    size: 17547 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzstar_rotz0_
 roty0.00390625-eps-converted-to.pdf Figures/prof_uzstar_rotz0_roty0.00390625.ep
 s>
 (epstopdf)             \includegraphics on input line 560.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzstar_rotz0_roty0.00390625-eps-converted-to.pdf, id=138, 442.653
+<Figures/prof_uzstar_rotz0_roty0.00390625-eps-converted-to.pdf, id=118, 442.653
 75pt x 370.38374pt>
 File: Figures/prof_uzstar_rotz0_roty0.00390625-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -2471,18 +2471,18 @@ Package pdftex.def Info: Figures/prof_uzstar_rotz0_roty0.00390625-eps-converted
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzstar_rotz0_roty0.0078125.ep
 s>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 217265 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 217437 bytes
 (epstopdf)             Output file: <Figures/prof_uzstar_rotz0_roty0.0078125-ep
 s-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:16
-(epstopdf)                    size: 16997 bytes
+(epstopdf)                    date: 2024-12-17 17:13:45
+(epstopdf)                    size: 16924 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzstar_rotz0_
 roty0.0078125-eps-converted-to.pdf Figures/prof_uzstar_rotz0_roty0.0078125.eps>
 
 (epstopdf)             \includegraphics on input line 561.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzstar_rotz0_roty0.0078125-eps-converted-to.pdf, id=139, 442.6537
+<Figures/prof_uzstar_rotz0_roty0.0078125-eps-converted-to.pdf, id=119, 442.6537
 5pt x 370.38374pt>
 File: Figures/prof_uzstar_rotz0_roty0.0078125-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -2492,17 +2492,17 @@ to.pdf  used on input line 561.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzstar_rotz0_roty0.015625.eps
 >
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 213985 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 213704 bytes
 (epstopdf)             Output file: <Figures/prof_uzstar_rotz0_roty0.015625-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:17
-(epstopdf)                    size: 15988 bytes
+(epstopdf)                    date: 2024-12-17 17:13:45
+(epstopdf)                    size: 16008 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzstar_rotz0_
 roty0.015625-eps-converted-to.pdf Figures/prof_uzstar_rotz0_roty0.015625.eps>
 (epstopdf)             \includegraphics on input line 562.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzstar_rotz0_roty0.015625-eps-converted-to.pdf, id=140, 442.65375
+<Figures/prof_uzstar_rotz0_roty0.015625-eps-converted-to.pdf, id=120, 442.65375
 pt x 370.38374pt>
 File: Figures/prof_uzstar_rotz0_roty0.015625-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -2512,17 +2512,17 @@ o.pdf  used on input line 562.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzstar_rotz0_roty0.03125.eps>
 
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 210829 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 210873 bytes
 (epstopdf)             Output file: <Figures/prof_uzstar_rotz0_roty0.03125-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:18
-(epstopdf)                    size: 15079 bytes
+(epstopdf)                    date: 2024-12-17 17:13:46
+(epstopdf)                    size: 15035 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzstar_rotz0_
 roty0.03125-eps-converted-to.pdf Figures/prof_uzstar_rotz0_roty0.03125.eps>
 (epstopdf)             \includegraphics on input line 563.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzstar_rotz0_roty0.03125-eps-converted-to.pdf, id=141, 442.65375p
+<Figures/prof_uzstar_rotz0_roty0.03125-eps-converted-to.pdf, id=121, 442.65375p
 t x 370.38374pt>
 File: Figures/prof_uzstar_rotz0_roty0.03125-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2531,17 +2531,17 @@ Package pdftex.def Info: Figures/prof_uzstar_rotz0_roty0.03125-eps-converted-to
 .pdf  used on input line 563.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzstar_rotz0_roty0.0625.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 210072 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 210169 bytes
 (epstopdf)             Output file: <Figures/prof_uzstar_rotz0_roty0.0625-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:19
-(epstopdf)                    size: 14839 bytes
+(epstopdf)                    date: 2024-12-17 17:13:46
+(epstopdf)                    size: 14818 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzstar_rotz0_
 roty0.0625-eps-converted-to.pdf Figures/prof_uzstar_rotz0_roty0.0625.eps>
 (epstopdf)             \includegraphics on input line 564.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzstar_rotz0_roty0.0625-eps-converted-to.pdf, id=142, 442.65375pt
+<Figures/prof_uzstar_rotz0_roty0.0625-eps-converted-to.pdf, id=122, 442.65375pt
  x 370.38374pt>
 File: Figures/prof_uzstar_rotz0_roty0.0625-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2550,17 +2550,17 @@ Package pdftex.def Info: Figures/prof_uzstar_rotz0_roty0.0625-eps-converted-to.
 pdf  used on input line 564.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzstar_rotz0_roty0.125.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 209831 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 209925 bytes
 (epstopdf)             Output file: <Figures/prof_uzstar_rotz0_roty0.125-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:20
-(epstopdf)                    size: 14833 bytes
+(epstopdf)                    date: 2024-12-17 17:13:46
+(epstopdf)                    size: 14802 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzstar_rotz0_
 roty0.125-eps-converted-to.pdf Figures/prof_uzstar_rotz0_roty0.125.eps>
 (epstopdf)             \includegraphics on input line 565.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzstar_rotz0_roty0.125-eps-converted-to.pdf, id=143, 442.65375pt 
+<Figures/prof_uzstar_rotz0_roty0.125-eps-converted-to.pdf, id=123, 442.65375pt 
 x 370.38374pt>
 File: Figures/prof_uzstar_rotz0_roty0.125-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -2569,17 +2569,17 @@ Package pdftex.def Info: Figures/prof_uzstar_rotz0_roty0.125-eps-converted-to.p
 df  used on input line 565.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzstar_rotz0_roty0.1875.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 214123 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 214040 bytes
 (epstopdf)             Output file: <Figures/prof_uzstar_rotz0_roty0.1875-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:21
-(epstopdf)                    size: 16337 bytes
+(epstopdf)                    date: 2024-12-17 17:13:46
+(epstopdf)                    size: 16280 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzstar_rotz0_
 roty0.1875-eps-converted-to.pdf Figures/prof_uzstar_rotz0_roty0.1875.eps>
 (epstopdf)             \includegraphics on input line 566.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzstar_rotz0_roty0.1875-eps-converted-to.pdf, id=144, 442.65375pt
+<Figures/prof_uzstar_rotz0_roty0.1875-eps-converted-to.pdf, id=124, 442.65375pt
  x 370.38374pt>
 File: Figures/prof_uzstar_rotz0_roty0.1875-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2588,17 +2588,17 @@ Package pdftex.def Info: Figures/prof_uzstar_rotz0_roty0.1875-eps-converted-to.
 pdf  used on input line 566.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzstar_rotz0_roty0.25.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 215960 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 215909 bytes
 (epstopdf)             Output file: <Figures/prof_uzstar_rotz0_roty0.25-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:22
-(epstopdf)                    size: 16797 bytes
+(epstopdf)                    date: 2024-12-17 17:13:47
+(epstopdf)                    size: 16774 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzstar_rotz0_
 roty0.25-eps-converted-to.pdf Figures/prof_uzstar_rotz0_roty0.25.eps>
 (epstopdf)             \includegraphics on input line 567.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzstar_rotz0_roty0.25-eps-converted-to.pdf, id=145, 442.65375pt x
+<Figures/prof_uzstar_rotz0_roty0.25-eps-converted-to.pdf, id=125, 442.65375pt x
  370.38374pt>
 File: Figures/prof_uzstar_rotz0_roty0.25-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -2607,17 +2607,17 @@ Package pdftex.def Info: Figures/prof_uzstar_rotz0_roty0.25-eps-converted-to.pd
 f  used on input line 567.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzstar_rotz0_roty0.5.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 215495 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 215455 bytes
 (epstopdf)             Output file: <Figures/prof_uzstar_rotz0_roty0.5-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:35:23
-(epstopdf)                    size: 16718 bytes
+(epstopdf)                    date: 2024-12-17 17:13:47
+(epstopdf)                    size: 16704 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzstar_rotz0_
 roty0.5-eps-converted-to.pdf Figures/prof_uzstar_rotz0_roty0.5.eps>
 (epstopdf)             \includegraphics on input line 568.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzstar_rotz0_roty0.5-eps-converted-to.pdf, id=146, 442.65375pt x 
+<Figures/prof_uzstar_rotz0_roty0.5-eps-converted-to.pdf, id=126, 442.65375pt x 
 370.38374pt>
 File: Figures/prof_uzstar_rotz0_roty0.5-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -2626,17 +2626,17 @@ Package pdftex.def Info: Figures/prof_uzstar_rotz0_roty0.5-eps-converted-to.pdf
   used on input line 568.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_uzstar_rotz0_roty1.0.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 213040 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 213017 bytes
 (epstopdf)             Output file: <Figures/prof_uzstar_rotz0_roty1.0-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:40:06
-(epstopdf)                    size: 15908 bytes
+(epstopdf)                    date: 2024-12-17 17:13:47
+(epstopdf)                    size: 15909 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_uzstar_rotz0_
 roty1.0-eps-converted-to.pdf Figures/prof_uzstar_rotz0_roty1.0.eps>
 (epstopdf)             \includegraphics on input line 569.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_uzstar_rotz0_roty1.0-eps-converted-to.pdf, id=147, 442.65375pt x 
+<Figures/prof_uzstar_rotz0_roty1.0-eps-converted-to.pdf, id=127, 442.65375pt x 
 370.38374pt>
 File: Figures/prof_uzstar_rotz0_roty1.0-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -2645,10 +2645,10 @@ Package pdftex.def Info: Figures/prof_uzstar_rotz0_roty1.0-eps-converted-to.pdf
   used on input line 569.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/theta_cmap.eps>
-(epstopdf)                    date: 2024-02-21 17:45:40
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 336930 bytes
 (epstopdf)             Output file: <Figures/theta_cmap-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-21 17:47:37
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 10205 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/theta_cmap-eps-con
 verted-to.pdf Figures/theta_cmap.eps>
@@ -2664,18 +2664,18 @@ LaTeX Warning: Float too large for page by 9.87616pt on input line 594.
 
 Package epstopdf Info: Source file: <Figures/prof_ttstar_rotz0_roty0.00390625.e
 ps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 218647 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 218148 bytes
 (epstopdf)             Output file: <Figures/prof_ttstar_rotz0_roty0.00390625-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:40:07
-(epstopdf)                    size: 17423 bytes
+(epstopdf)                    date: 2024-12-17 17:13:48
+(epstopdf)                    size: 17331 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttstar_rotz0_
 roty0.00390625-eps-converted-to.pdf Figures/prof_ttstar_rotz0_roty0.00390625.ep
 s>
 (epstopdf)             \includegraphics on input line 598.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttstar_rotz0_roty0.00390625-eps-converted-to.pdf, id=148, 442.653
+<Figures/prof_ttstar_rotz0_roty0.00390625-eps-converted-to.pdf, id=128, 442.653
 75pt x 370.38374pt>
 File: Figures/prof_ttstar_rotz0_roty0.00390625-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -2685,18 +2685,18 @@ Package pdftex.def Info: Figures/prof_ttstar_rotz0_roty0.00390625-eps-converted
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttstar_rotz0_roty0.0078125.ep
 s>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 217261 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 216573 bytes
 (epstopdf)             Output file: <Figures/prof_ttstar_rotz0_roty0.0078125-ep
 s-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:40:08
-(epstopdf)                    size: 16962 bytes
+(epstopdf)                    date: 2024-12-17 17:13:48
+(epstopdf)                    size: 16767 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttstar_rotz0_
 roty0.0078125-eps-converted-to.pdf Figures/prof_ttstar_rotz0_roty0.0078125.eps>
 
 (epstopdf)             \includegraphics on input line 599.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttstar_rotz0_roty0.0078125-eps-converted-to.pdf, id=149, 442.6537
+<Figures/prof_ttstar_rotz0_roty0.0078125-eps-converted-to.pdf, id=129, 442.6537
 5pt x 370.38374pt>
 File: Figures/prof_ttstar_rotz0_roty0.0078125-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -2706,17 +2706,17 @@ to.pdf  used on input line 599.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttstar_rotz0_roty0.015625.eps
 >
-(epstopdf)                    date: 2024-11-22 17:56:30
-(epstopdf)                    size: 213965 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 213413 bytes
 (epstopdf)             Output file: <Figures/prof_ttstar_rotz0_roty0.015625-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:40:09
-(epstopdf)                    size: 16091 bytes
+(epstopdf)                    date: 2024-12-17 17:13:48
+(epstopdf)                    size: 16032 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttstar_rotz0_
 roty0.015625-eps-converted-to.pdf Figures/prof_ttstar_rotz0_roty0.015625.eps>
 (epstopdf)             \includegraphics on input line 600.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttstar_rotz0_roty0.015625-eps-converted-to.pdf, id=150, 442.65375
+<Figures/prof_ttstar_rotz0_roty0.015625-eps-converted-to.pdf, id=130, 442.65375
 pt x 370.38374pt>
 File: Figures/prof_ttstar_rotz0_roty0.015625-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -2726,17 +2726,17 @@ o.pdf  used on input line 600.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttstar_rotz0_roty0.03125.eps>
 
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 211222 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 210749 bytes
 (epstopdf)             Output file: <Figures/prof_ttstar_rotz0_roty0.03125-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:40:10
-(epstopdf)                    size: 15370 bytes
+(epstopdf)                    date: 2024-12-17 17:13:49
+(epstopdf)                    size: 15250 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttstar_rotz0_
 roty0.03125-eps-converted-to.pdf Figures/prof_ttstar_rotz0_roty0.03125.eps>
 (epstopdf)             \includegraphics on input line 601.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttstar_rotz0_roty0.03125-eps-converted-to.pdf, id=151, 442.65375p
+<Figures/prof_ttstar_rotz0_roty0.03125-eps-converted-to.pdf, id=131, 442.65375p
 t x 370.38374pt>
 File: Figures/prof_ttstar_rotz0_roty0.03125-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2745,17 +2745,17 @@ Package pdftex.def Info: Figures/prof_ttstar_rotz0_roty0.03125-eps-converted-to
 .pdf  used on input line 601.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttstar_rotz0_roty0.0625.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 209302 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 208791 bytes
 (epstopdf)             Output file: <Figures/prof_ttstar_rotz0_roty0.0625-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:40:11
-(epstopdf)                    size: 14769 bytes
+(epstopdf)                    date: 2024-12-17 17:13:49
+(epstopdf)                    size: 14755 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttstar_rotz0_
 roty0.0625-eps-converted-to.pdf Figures/prof_ttstar_rotz0_roty0.0625.eps>
 (epstopdf)             \includegraphics on input line 602.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttstar_rotz0_roty0.0625-eps-converted-to.pdf, id=152, 442.65375pt
+<Figures/prof_ttstar_rotz0_roty0.0625-eps-converted-to.pdf, id=132, 442.65375pt
  x 370.38374pt>
 File: Figures/prof_ttstar_rotz0_roty0.0625-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2764,17 +2764,17 @@ Package pdftex.def Info: Figures/prof_ttstar_rotz0_roty0.0625-eps-converted-to.
 pdf  used on input line 602.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttstar_rotz0_roty0.125.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 208919 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 208266 bytes
 (epstopdf)             Output file: <Figures/prof_ttstar_rotz0_roty0.125-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:40:12
-(epstopdf)                    size: 14694 bytes
+(epstopdf)                    date: 2024-12-17 17:13:49
+(epstopdf)                    size: 14514 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttstar_rotz0_
 roty0.125-eps-converted-to.pdf Figures/prof_ttstar_rotz0_roty0.125.eps>
 (epstopdf)             \includegraphics on input line 603.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttstar_rotz0_roty0.125-eps-converted-to.pdf, id=153, 442.65375pt 
+<Figures/prof_ttstar_rotz0_roty0.125-eps-converted-to.pdf, id=133, 442.65375pt 
 x 370.38374pt>
 File: Figures/prof_ttstar_rotz0_roty0.125-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -2783,17 +2783,17 @@ Package pdftex.def Info: Figures/prof_ttstar_rotz0_roty0.125-eps-converted-to.p
 df  used on input line 603.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttstar_rotz0_roty0.1875.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 209784 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 209167 bytes
 (epstopdf)             Output file: <Figures/prof_ttstar_rotz0_roty0.1875-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:40:13
-(epstopdf)                    size: 14948 bytes
+(epstopdf)                    date: 2024-12-17 17:13:50
+(epstopdf)                    size: 14931 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttstar_rotz0_
 roty0.1875-eps-converted-to.pdf Figures/prof_ttstar_rotz0_roty0.1875.eps>
 (epstopdf)             \includegraphics on input line 604.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttstar_rotz0_roty0.1875-eps-converted-to.pdf, id=154, 442.65375pt
+<Figures/prof_ttstar_rotz0_roty0.1875-eps-converted-to.pdf, id=134, 442.65375pt
  x 370.38374pt>
 File: Figures/prof_ttstar_rotz0_roty0.1875-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -2802,17 +2802,17 @@ Package pdftex.def Info: Figures/prof_ttstar_rotz0_roty0.1875-eps-converted-to.
 pdf  used on input line 604.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttstar_rotz0_roty0.25.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 214426 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 214228 bytes
 (epstopdf)             Output file: <Figures/prof_ttstar_rotz0_roty0.25-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:40:15
-(epstopdf)                    size: 16655 bytes
+(epstopdf)                    date: 2024-12-17 17:13:50
+(epstopdf)                    size: 16619 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttstar_rotz0_
 roty0.25-eps-converted-to.pdf Figures/prof_ttstar_rotz0_roty0.25.eps>
 (epstopdf)             \includegraphics on input line 605.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttstar_rotz0_roty0.25-eps-converted-to.pdf, id=155, 442.65375pt x
+<Figures/prof_ttstar_rotz0_roty0.25-eps-converted-to.pdf, id=135, 442.65375pt x
  370.38374pt>
 File: Figures/prof_ttstar_rotz0_roty0.25-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -2821,17 +2821,17 @@ Package pdftex.def Info: Figures/prof_ttstar_rotz0_roty0.25-eps-converted-to.pd
 f  used on input line 605.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttstar_rotz0_roty0.5.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 223036 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 223030 bytes
 (epstopdf)             Output file: <Figures/prof_ttstar_rotz0_roty0.5-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:40:16
-(epstopdf)                    size: 19621 bytes
+(epstopdf)                    date: 2024-12-17 17:13:50
+(epstopdf)                    size: 19603 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttstar_rotz0_
 roty0.5-eps-converted-to.pdf Figures/prof_ttstar_rotz0_roty0.5.eps>
 (epstopdf)             \includegraphics on input line 606.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttstar_rotz0_roty0.5-eps-converted-to.pdf, id=156, 442.65375pt x 
+<Figures/prof_ttstar_rotz0_roty0.5-eps-converted-to.pdf, id=136, 442.65375pt x 
 370.38374pt>
 File: Figures/prof_ttstar_rotz0_roty0.5-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -2840,17 +2840,17 @@ Package pdftex.def Info: Figures/prof_ttstar_rotz0_roty0.5-eps-converted-to.pdf
   used on input line 606.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_ttstar_rotz0_roty1.0.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 213827 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 221061 bytes
 (epstopdf)             Output file: <Figures/prof_ttstar_rotz0_roty1.0-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:40:17
-(epstopdf)                    size: 16448 bytes
+(epstopdf)                    date: 2024-12-17 17:13:50
+(epstopdf)                    size: 19004 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_ttstar_rotz0_
 roty1.0-eps-converted-to.pdf Figures/prof_ttstar_rotz0_roty1.0.eps>
 (epstopdf)             \includegraphics on input line 607.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_ttstar_rotz0_roty1.0-eps-converted-to.pdf, id=157, 442.65375pt x 
+<Figures/prof_ttstar_rotz0_roty1.0-eps-converted-to.pdf, id=137, 442.65375pt x 
 370.38374pt>
 File: Figures/prof_ttstar_rotz0_roty1.0-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -2859,10 +2859,10 @@ Package pdftex.def Info: Figures/prof_ttstar_rotz0_roty1.0-eps-converted-to.pdf
   used on input line 607.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/theta_cmap.eps>
-(epstopdf)                    date: 2024-02-21 17:45:40
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 336930 bytes
 (epstopdf)             Output file: <Figures/theta_cmap-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-02-21 17:47:37
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 10205 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/theta_cmap-eps-con
 verted-to.pdf Figures/theta_cmap.eps>
@@ -2875,18 +2875,18 @@ Package pdftex.def Info: Figures/theta_cmap-eps-converted-to.pdf  used on input
 (pdftex.def)             Requested size: 192.0pt x 39.99948pt.
 Package epstopdf Info: Source file: <Figures/prof_tkeouter_rotz0_roty0.00390625
 .eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 213725 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 213337 bytes
 (epstopdf)             Output file: <Figures/prof_tkeouter_rotz0_roty0.00390625
 -eps-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:12
-(epstopdf)                    size: 16751 bytes
+(epstopdf)                    date: 2024-12-17 17:13:51
+(epstopdf)                    size: 16647 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tkeouter_rotz
 0_roty0.00390625-eps-converted-to.pdf Figures/prof_tkeouter_rotz0_roty0.0039062
 5.eps>
 (epstopdf)             \includegraphics on input line 636.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tkeouter_rotz0_roty0.00390625-eps-converted-to.pdf, id=158, 442.6
+<Figures/prof_tkeouter_rotz0_roty0.00390625-eps-converted-to.pdf, id=138, 442.6
 5375pt x 370.38374pt>
 File: Figures/prof_tkeouter_rotz0_roty0.00390625-eps-converted-to.pdf Graphic f
 ile (type pdf)
@@ -2896,18 +2896,18 @@ ed-to.pdf  used on input line 636.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tkeouter_rotz0_roty0.0078125.
 eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 213721 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 213533 bytes
 (epstopdf)             Output file: <Figures/prof_tkeouter_rotz0_roty0.0078125-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:13
-(epstopdf)                    size: 16734 bytes
+(epstopdf)                    date: 2024-12-17 17:13:51
+(epstopdf)                    size: 16729 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tkeouter_rotz
 0_roty0.0078125-eps-converted-to.pdf Figures/prof_tkeouter_rotz0_roty0.0078125.
 eps>
 (epstopdf)             \includegraphics on input line 637.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tkeouter_rotz0_roty0.0078125-eps-converted-to.pdf, id=159, 442.65
+<Figures/prof_tkeouter_rotz0_roty0.0078125-eps-converted-to.pdf, id=139, 442.65
 375pt x 370.38374pt>
 File: Figures/prof_tkeouter_rotz0_roty0.0078125-eps-converted-to.pdf Graphic fi
 le (type pdf)
@@ -2917,18 +2917,18 @@ d-to.pdf  used on input line 637.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tkeouter_rotz0_roty0.015625.e
 ps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 213808 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 213320 bytes
 (epstopdf)             Output file: <Figures/prof_tkeouter_rotz0_roty0.015625-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:15
-(epstopdf)                    size: 16852 bytes
+(epstopdf)                    date: 2024-12-17 17:13:51
+(epstopdf)                    size: 16701 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tkeouter_rotz
 0_roty0.015625-eps-converted-to.pdf Figures/prof_tkeouter_rotz0_roty0.015625.ep
 s>
 (epstopdf)             \includegraphics on input line 638.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tkeouter_rotz0_roty0.015625-eps-converted-to.pdf, id=160, 442.653
+<Figures/prof_tkeouter_rotz0_roty0.015625-eps-converted-to.pdf, id=140, 442.653
 75pt x 370.38374pt>
 File: Figures/prof_tkeouter_rotz0_roty0.015625-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -2938,18 +2938,18 @@ Package pdftex.def Info: Figures/prof_tkeouter_rotz0_roty0.015625-eps-converted
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tkeouter_rotz0_roty0.03125.ep
 s>
-(epstopdf)                    date: 2024-11-22 17:56:30
-(epstopdf)                    size: 211076 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 210856 bytes
 (epstopdf)             Output file: <Figures/prof_tkeouter_rotz0_roty0.03125-ep
 s-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:16
-(epstopdf)                    size: 16259 bytes
+(epstopdf)                    date: 2024-12-17 17:13:52
+(epstopdf)                    size: 16178 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tkeouter_rotz
 0_roty0.03125-eps-converted-to.pdf Figures/prof_tkeouter_rotz0_roty0.03125.eps>
 
 (epstopdf)             \includegraphics on input line 639.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tkeouter_rotz0_roty0.03125-eps-converted-to.pdf, id=161, 442.6537
+<Figures/prof_tkeouter_rotz0_roty0.03125-eps-converted-to.pdf, id=141, 442.6537
 5pt x 370.38374pt>
 File: Figures/prof_tkeouter_rotz0_roty0.03125-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -2959,17 +2959,17 @@ to.pdf  used on input line 639.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tkeouter_rotz0_roty0.0625.eps
 >
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 207967 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 208066 bytes
 (epstopdf)             Output file: <Figures/prof_tkeouter_rotz0_roty0.0625-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:17
-(epstopdf)                    size: 15331 bytes
+(epstopdf)                    date: 2024-12-17 17:13:52
+(epstopdf)                    size: 15329 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tkeouter_rotz
 0_roty0.0625-eps-converted-to.pdf Figures/prof_tkeouter_rotz0_roty0.0625.eps>
 (epstopdf)             \includegraphics on input line 640.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tkeouter_rotz0_roty0.0625-eps-converted-to.pdf, id=162, 442.65375
+<Figures/prof_tkeouter_rotz0_roty0.0625-eps-converted-to.pdf, id=142, 442.65375
 pt x 370.38374pt>
 File: Figures/prof_tkeouter_rotz0_roty0.0625-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -2979,17 +2979,17 @@ o.pdf  used on input line 640.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tkeouter_rotz0_roty0.125.eps>
 
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 205901 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 206164 bytes
 (epstopdf)             Output file: <Figures/prof_tkeouter_rotz0_roty0.125-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:18
-(epstopdf)                    size: 14879 bytes
+(epstopdf)                    date: 2024-12-17 17:13:52
+(epstopdf)                    size: 14867 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tkeouter_rotz
 0_roty0.125-eps-converted-to.pdf Figures/prof_tkeouter_rotz0_roty0.125.eps>
 (epstopdf)             \includegraphics on input line 641.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tkeouter_rotz0_roty0.125-eps-converted-to.pdf, id=163, 442.65375p
+<Figures/prof_tkeouter_rotz0_roty0.125-eps-converted-to.pdf, id=143, 442.65375p
 t x 370.38374pt>
 File: Figures/prof_tkeouter_rotz0_roty0.125-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2999,17 +2999,17 @@ Package pdftex.def Info: Figures/prof_tkeouter_rotz0_roty0.125-eps-converted-to
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tkeouter_rotz0_roty0.1875.eps
 >
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 204366 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 204740 bytes
 (epstopdf)             Output file: <Figures/prof_tkeouter_rotz0_roty0.1875-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:19
-(epstopdf)                    size: 14287 bytes
+(epstopdf)                    date: 2024-12-17 17:13:53
+(epstopdf)                    size: 14380 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tkeouter_rotz
 0_roty0.1875-eps-converted-to.pdf Figures/prof_tkeouter_rotz0_roty0.1875.eps>
 (epstopdf)             \includegraphics on input line 642.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tkeouter_rotz0_roty0.1875-eps-converted-to.pdf, id=164, 442.65375
+<Figures/prof_tkeouter_rotz0_roty0.1875-eps-converted-to.pdf, id=144, 442.65375
 pt x 370.38374pt>
 File: Figures/prof_tkeouter_rotz0_roty0.1875-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -3018,17 +3018,17 @@ Package pdftex.def Info: Figures/prof_tkeouter_rotz0_roty0.1875-eps-converted-t
 o.pdf  used on input line 642.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tkeouter_rotz0_roty0.25.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 203162 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 203497 bytes
 (epstopdf)             Output file: <Figures/prof_tkeouter_rotz0_roty0.25-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:20
-(epstopdf)                    size: 13987 bytes
+(epstopdf)                    date: 2024-12-17 17:13:53
+(epstopdf)                    size: 14067 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tkeouter_rotz
 0_roty0.25-eps-converted-to.pdf Figures/prof_tkeouter_rotz0_roty0.25.eps>
 (epstopdf)             \includegraphics on input line 643.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tkeouter_rotz0_roty0.25-eps-converted-to.pdf, id=165, 442.65375pt
+<Figures/prof_tkeouter_rotz0_roty0.25-eps-converted-to.pdf, id=145, 442.65375pt
  x 370.38374pt>
 File: Figures/prof_tkeouter_rotz0_roty0.25-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -3037,17 +3037,17 @@ Package pdftex.def Info: Figures/prof_tkeouter_rotz0_roty0.25-eps-converted-to.
 pdf  used on input line 643.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tkeouter_rotz0_roty0.5.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 200531 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 200826 bytes
 (epstopdf)             Output file: <Figures/prof_tkeouter_rotz0_roty0.5-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:28
-(epstopdf)                    size: 13127 bytes
+(epstopdf)                    date: 2024-12-17 17:13:53
+(epstopdf)                    size: 13132 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tkeouter_rotz
 0_roty0.5-eps-converted-to.pdf Figures/prof_tkeouter_rotz0_roty0.5.eps>
 (epstopdf)             \includegraphics on input line 644.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tkeouter_rotz0_roty0.5-eps-converted-to.pdf, id=166, 442.65375pt 
+<Figures/prof_tkeouter_rotz0_roty0.5-eps-converted-to.pdf, id=146, 442.65375pt 
 x 370.38374pt>
 File: Figures/prof_tkeouter_rotz0_roty0.5-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -3056,17 +3056,17 @@ Package pdftex.def Info: Figures/prof_tkeouter_rotz0_roty0.5-eps-converted-to.p
 df  used on input line 644.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_tkeouter_rotz0_roty1.0.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 189092 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 189546 bytes
 (epstopdf)             Output file: <Figures/prof_tkeouter_rotz0_roty1.0-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:29
-(epstopdf)                    size: 9177 bytes
+(epstopdf)                    date: 2024-12-17 17:13:53
+(epstopdf)                    size: 9185 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_tkeouter_rotz
 0_roty1.0-eps-converted-to.pdf Figures/prof_tkeouter_rotz0_roty1.0.eps>
 (epstopdf)             \includegraphics on input line 645.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_tkeouter_rotz0_roty1.0-eps-converted-to.pdf, id=167, 442.65375pt 
+<Figures/prof_tkeouter_rotz0_roty1.0-eps-converted-to.pdf, id=147, 442.65375pt 
 x 370.38374pt>
 File: Figures/prof_tkeouter_rotz0_roty1.0-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -3075,11 +3075,11 @@ Package pdftex.def Info: Figures/prof_tkeouter_rotz0_roty1.0-eps-converted-to.p
 df  used on input line 645.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/theta_cmap_half.eps>
-(epstopdf)                    date: 2024-02-21 17:46:32
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 287266 bytes
 (epstopdf)             Output file: <Figures/theta_cmap_half-eps-converted-to.p
 df>
-(epstopdf)                    date: 2024-02-21 17:47:37
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 9810 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/theta_cmap_half-ep
 s-converted-to.pdf Figures/theta_cmap_half.eps>
@@ -3092,18 +3092,18 @@ input line 646.
 (pdftex.def)             Requested size: 192.0pt x 39.99948pt.
 Package epstopdf Info: Source file: <Figures/prof_rssouter_rotz0_roty0.00390625
 .eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 211856 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 211600 bytes
 (epstopdf)             Output file: <Figures/prof_rssouter_rotz0_roty0.00390625
 -eps-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:30
-(epstopdf)                    size: 16788 bytes
+(epstopdf)                    date: 2024-12-17 17:13:54
+(epstopdf)                    size: 16748 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_rssouter_rotz
 0_roty0.00390625-eps-converted-to.pdf Figures/prof_rssouter_rotz0_roty0.0039062
 5.eps>
 (epstopdf)             \includegraphics on input line 673.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_rssouter_rotz0_roty0.00390625-eps-converted-to.pdf, id=168, 442.6
+<Figures/prof_rssouter_rotz0_roty0.00390625-eps-converted-to.pdf, id=148, 442.6
 5375pt x 370.38374pt>
 File: Figures/prof_rssouter_rotz0_roty0.00390625-eps-converted-to.pdf Graphic f
 ile (type pdf)
@@ -3113,18 +3113,18 @@ ed-to.pdf  used on input line 673.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_rssouter_rotz0_roty0.0078125.
 eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 212070 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 211660 bytes
 (epstopdf)             Output file: <Figures/prof_rssouter_rotz0_roty0.0078125-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:31
-(epstopdf)                    size: 16907 bytes
+(epstopdf)                    date: 2024-12-17 17:13:54
+(epstopdf)                    size: 16835 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_rssouter_rotz
 0_roty0.0078125-eps-converted-to.pdf Figures/prof_rssouter_rotz0_roty0.0078125.
 eps>
 (epstopdf)             \includegraphics on input line 674.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_rssouter_rotz0_roty0.0078125-eps-converted-to.pdf, id=169, 442.65
+<Figures/prof_rssouter_rotz0_roty0.0078125-eps-converted-to.pdf, id=149, 442.65
 375pt x 370.38374pt>
 File: Figures/prof_rssouter_rotz0_roty0.0078125-eps-converted-to.pdf Graphic fi
 le (type pdf)
@@ -3134,18 +3134,18 @@ d-to.pdf  used on input line 674.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_rssouter_rotz0_roty0.015625.e
 ps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 213462 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 212964 bytes
 (epstopdf)             Output file: <Figures/prof_rssouter_rotz0_roty0.015625-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:32
-(epstopdf)                    size: 17429 bytes
+(epstopdf)                    date: 2024-12-17 17:13:54
+(epstopdf)                    size: 17269 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_rssouter_rotz
 0_roty0.015625-eps-converted-to.pdf Figures/prof_rssouter_rotz0_roty0.015625.ep
 s>
 (epstopdf)             \includegraphics on input line 675.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_rssouter_rotz0_roty0.015625-eps-converted-to.pdf, id=170, 442.653
+<Figures/prof_rssouter_rotz0_roty0.015625-eps-converted-to.pdf, id=150, 442.653
 75pt x 370.38374pt>
 File: Figures/prof_rssouter_rotz0_roty0.015625-eps-converted-to.pdf Graphic fil
 e (type pdf)
@@ -3155,18 +3155,18 @@ Package pdftex.def Info: Figures/prof_rssouter_rotz0_roty0.015625-eps-converted
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_rssouter_rotz0_roty0.03125.ep
 s>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 211014 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 210577 bytes
 (epstopdf)             Output file: <Figures/prof_rssouter_rotz0_roty0.03125-ep
 s-converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:34
-(epstopdf)                    size: 16592 bytes
+(epstopdf)                    date: 2024-12-17 17:13:55
+(epstopdf)                    size: 16538 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_rssouter_rotz
 0_roty0.03125-eps-converted-to.pdf Figures/prof_rssouter_rotz0_roty0.03125.eps>
 
 (epstopdf)             \includegraphics on input line 676.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_rssouter_rotz0_roty0.03125-eps-converted-to.pdf, id=171, 442.6537
+<Figures/prof_rssouter_rotz0_roty0.03125-eps-converted-to.pdf, id=151, 442.6537
 5pt x 370.38374pt>
 File: Figures/prof_rssouter_rotz0_roty0.03125-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -3176,17 +3176,17 @@ to.pdf  used on input line 676.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_rssouter_rotz0_roty0.0625.eps
 >
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 206663 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 206903 bytes
 (epstopdf)             Output file: <Figures/prof_rssouter_rotz0_roty0.0625-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:35
-(epstopdf)                    size: 15273 bytes
+(epstopdf)                    date: 2024-12-17 17:13:55
+(epstopdf)                    size: 15309 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_rssouter_rotz
 0_roty0.0625-eps-converted-to.pdf Figures/prof_rssouter_rotz0_roty0.0625.eps>
 (epstopdf)             \includegraphics on input line 677.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_rssouter_rotz0_roty0.0625-eps-converted-to.pdf, id=172, 442.65375
+<Figures/prof_rssouter_rotz0_roty0.0625-eps-converted-to.pdf, id=152, 442.65375
 pt x 370.38374pt>
 File: Figures/prof_rssouter_rotz0_roty0.0625-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -3196,17 +3196,17 @@ o.pdf  used on input line 677.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_rssouter_rotz0_roty0.125.eps>
 
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 202747 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 203077 bytes
 (epstopdf)             Output file: <Figures/prof_rssouter_rotz0_roty0.125-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:36
-(epstopdf)                    size: 14063 bytes
+(epstopdf)                    date: 2024-12-17 17:13:55
+(epstopdf)                    size: 14127 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_rssouter_rotz
 0_roty0.125-eps-converted-to.pdf Figures/prof_rssouter_rotz0_roty0.125.eps>
 (epstopdf)             \includegraphics on input line 678.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_rssouter_rotz0_roty0.125-eps-converted-to.pdf, id=173, 442.65375p
+<Figures/prof_rssouter_rotz0_roty0.125-eps-converted-to.pdf, id=153, 442.65375p
 t x 370.38374pt>
 File: Figures/prof_rssouter_rotz0_roty0.125-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -3216,17 +3216,17 @@ Package pdftex.def Info: Figures/prof_rssouter_rotz0_roty0.125-eps-converted-to
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_rssouter_rotz0_roty0.1875.eps
 >
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 201139 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 201555 bytes
 (epstopdf)             Output file: <Figures/prof_rssouter_rotz0_roty0.1875-eps
 -converted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:56:37
-(epstopdf)                    size: 13613 bytes
+(epstopdf)                    date: 2024-12-17 17:13:56
+(epstopdf)                    size: 13692 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_rssouter_rotz
 0_roty0.1875-eps-converted-to.pdf Figures/prof_rssouter_rotz0_roty0.1875.eps>
 (epstopdf)             \includegraphics on input line 679.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_rssouter_rotz0_roty0.1875-eps-converted-to.pdf, id=174, 442.65375
+<Figures/prof_rssouter_rotz0_roty0.1875-eps-converted-to.pdf, id=154, 442.65375
 pt x 370.38374pt>
 File: Figures/prof_rssouter_rotz0_roty0.1875-eps-converted-to.pdf Graphic file 
 (type pdf)
@@ -3235,17 +3235,17 @@ Package pdftex.def Info: Figures/prof_rssouter_rotz0_roty0.1875-eps-converted-t
 o.pdf  used on input line 679.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_rssouter_rotz0_roty0.25.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 200252 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 200426 bytes
 (epstopdf)             Output file: <Figures/prof_rssouter_rotz0_roty0.25-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:57:18
-(epstopdf)                    size: 13300 bytes
+(epstopdf)                    date: 2024-12-17 17:13:56
+(epstopdf)                    size: 13328 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_rssouter_rotz
 0_roty0.25-eps-converted-to.pdf Figures/prof_rssouter_rotz0_roty0.25.eps>
 (epstopdf)             \includegraphics on input line 680.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_rssouter_rotz0_roty0.25-eps-converted-to.pdf, id=175, 442.65375pt
+<Figures/prof_rssouter_rotz0_roty0.25-eps-converted-to.pdf, id=155, 442.65375pt
  x 370.38374pt>
 File: Figures/prof_rssouter_rotz0_roty0.25-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -3254,17 +3254,17 @@ Package pdftex.def Info: Figures/prof_rssouter_rotz0_roty0.25-eps-converted-to.
 pdf  used on input line 680.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_rssouter_rotz0_roty0.5.eps>
-(epstopdf)                    date: 2024-11-22 17:56:28
-(epstopdf)                    size: 198316 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 198700 bytes
 (epstopdf)             Output file: <Figures/prof_rssouter_rotz0_roty0.5-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:57:19
-(epstopdf)                    size: 12652 bytes
+(epstopdf)                    date: 2024-12-17 17:13:56
+(epstopdf)                    size: 12705 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_rssouter_rotz
 0_roty0.5-eps-converted-to.pdf Figures/prof_rssouter_rotz0_roty0.5.eps>
 (epstopdf)             \includegraphics on input line 681.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_rssouter_rotz0_roty0.5-eps-converted-to.pdf, id=176, 442.65375pt 
+<Figures/prof_rssouter_rotz0_roty0.5-eps-converted-to.pdf, id=156, 442.65375pt 
 x 370.38374pt>
 File: Figures/prof_rssouter_rotz0_roty0.5-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -3273,17 +3273,17 @@ Package pdftex.def Info: Figures/prof_rssouter_rotz0_roty0.5-eps-converted-to.p
 df  used on input line 681.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/prof_rssouter_rotz0_roty1.0.eps>
-(epstopdf)                    date: 2024-11-22 17:56:29
-(epstopdf)                    size: 189899 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 190301 bytes
 (epstopdf)             Output file: <Figures/prof_rssouter_rotz0_roty1.0-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2024-11-22 19:57:20
-(epstopdf)                    size: 10058 bytes
+(epstopdf)                    date: 2024-12-17 17:13:57
+(epstopdf)                    size: 10062 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/prof_rssouter_rotz
 0_roty1.0-eps-converted-to.pdf Figures/prof_rssouter_rotz0_roty1.0.eps>
 (epstopdf)             \includegraphics on input line 682.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/prof_rssouter_rotz0_roty1.0-eps-converted-to.pdf, id=177, 442.65375pt 
+<Figures/prof_rssouter_rotz0_roty1.0-eps-converted-to.pdf, id=157, 442.65375pt 
 x 370.38374pt>
 File: Figures/prof_rssouter_rotz0_roty1.0-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -3292,11 +3292,11 @@ Package pdftex.def Info: Figures/prof_rssouter_rotz0_roty1.0-eps-converted-to.p
 df  used on input line 682.
 (pdftex.def)             Requested size: 113.81102pt x 95.22934pt.
 Package epstopdf Info: Source file: <Figures/theta_cmap_half.eps>
-(epstopdf)                    date: 2024-02-21 17:46:32
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 287266 bytes
 (epstopdf)             Output file: <Figures/theta_cmap_half-eps-converted-to.p
 df>
-(epstopdf)                    date: 2024-02-21 17:47:37
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 9810 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/theta_cmap_half-ep
 s-converted-to.pdf Figures/theta_cmap_half.eps>
@@ -3308,17 +3308,21 @@ Package pdftex.def Info: Figures/theta_cmap_half-eps-converted-to.pdf  used on
 input line 683.
 (pdftex.def)             Requested size: 192.0pt x 39.99948pt.
 Package epstopdf Info: Source file: <Figures/ekman_profsy_roty_500_u.eps>
-(epstopdf)                    date: 2024-12-03 16:29:12
+(epstopdf)                    date: 2024-12-17 17:22:06
 (epstopdf)                    size: 745908 bytes
 (epstopdf)             Output file: <Figures/ekman_profsy_roty_500_u-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2024-12-03 17:23:35
-(epstopdf)                    size: 96288 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/ekman_profsy_roty_
 500_u-eps-converted-to.pdf Figures/ekman_profsy_roty_500_u.eps>
 (epstopdf)             \includegraphics on input line 767.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ekman_profsy_roty_500_u-eps-converted-to.pdf, id=178, 551.05875pt x 44
+runsystem(repstopdf --outfile=Figures/ekman_profsy_roty_500_u-eps-converted-to.
+pdf Figures/ekman_profsy_roty_500_u.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <Figures/ekman_profsy_roty_500_u-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2024-12-17 17:22:12
+(epstopdf)                    size: 96283 bytes.
+<Figures/ekman_profsy_roty_500_u-eps-converted-to.pdf, id=158, 551.05875pt x 44
 2.65375pt>
 File: Figures/ekman_profsy_roty_500_u-eps-converted-to.pdf Graphic file (type p
 df)
@@ -3327,17 +3331,21 @@ Package pdftex.def Info: Figures/ekman_profsy_roty_500_u-eps-converted-to.pdf
 used on input line 767.
 (pdftex.def)             Requested size: 113.81102pt x 91.42003pt.
 Package epstopdf Info: Source file: <Figures/ekman_angles_roty_500_u.eps>
-(epstopdf)                    date: 2024-12-03 16:29:12
-(epstopdf)                    size: 465562 bytes
+(epstopdf)                    date: 2024-12-17 17:22:06
+(epstopdf)                    size: 465542 bytes
 (epstopdf)             Output file: <Figures/ekman_angles_roty_500_u-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2024-12-03 17:23:35
-(epstopdf)                    size: 20772 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/ekman_angles_roty_
 500_u-eps-converted-to.pdf Figures/ekman_angles_roty_500_u.eps>
 (epstopdf)             \includegraphics on input line 768.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ekman_angles_roty_500_u-eps-converted-to.pdf, id=179, 551.05875pt x 44
+runsystem(repstopdf --outfile=Figures/ekman_angles_roty_500_u-eps-converted-to.
+pdf Figures/ekman_angles_roty_500_u.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <Figures/ekman_angles_roty_500_u-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2024-12-17 17:22:13
+(epstopdf)                    size: 20768 bytes.
+<Figures/ekman_angles_roty_500_u-eps-converted-to.pdf, id=159, 551.05875pt x 44
 2.65375pt>
 File: Figures/ekman_angles_roty_500_u-eps-converted-to.pdf Graphic file (type p
 df)
@@ -3346,17 +3354,21 @@ Package pdftex.def Info: Figures/ekman_angles_roty_500_u-eps-converted-to.pdf
 used on input line 768.
 (pdftex.def)             Requested size: 113.81102pt x 91.42003pt.
 Package epstopdf Info: Source file: <Figures/ekman_spiral_roty_500_u.eps>
-(epstopdf)                    date: 2024-12-03 16:29:12
-(epstopdf)                    size: 224229 bytes
+(epstopdf)                    date: 2024-12-17 17:22:06
+(epstopdf)                    size: 224203 bytes
 (epstopdf)             Output file: <Figures/ekman_spiral_roty_500_u-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2024-12-03 17:23:36
-(epstopdf)                    size: 18156 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/ekman_spiral_roty_
 500_u-eps-converted-to.pdf Figures/ekman_spiral_roty_500_u.eps>
 (epstopdf)             \includegraphics on input line 769.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ekman_spiral_roty_500_u-eps-converted-to.pdf, id=180, 562.1pt x 442.65
+runsystem(repstopdf --outfile=Figures/ekman_spiral_roty_500_u-eps-converted-to.
+pdf Figures/ekman_spiral_roty_500_u.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <Figures/ekman_spiral_roty_500_u-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2024-12-17 17:22:13
+(epstopdf)                    size: 18114 bytes.
+<Figures/ekman_spiral_roty_500_u-eps-converted-to.pdf, id=160, 562.1pt x 442.65
 375pt>
 File: Figures/ekman_spiral_roty_500_u-eps-converted-to.pdf Graphic file (type p
 df)
@@ -3367,25 +3379,35 @@ used on input line 769.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 9.0pt on input line 794.
 
+LaTeX Warning: Reference `tab:runs' on page 1 undefined on input line 794.
+
+
 Package natbib Warning: Citation `greenspan1968' on page 1 undefined on input l
 ine 794.
+
+
+LaTeX Warning: Reference `tab:runs' on page 1 undefined on input line 794.
 
 
 Package natbib Warning: Citation `greenspan1968' on page 1 undefined on input l
 ine 794.
 
 Package epstopdf Info: Source file: <Figures/ekman_profsyr_roty_500_T.eps>
-(epstopdf)                    date: 2024-12-04 09:52:25
-(epstopdf)                    size: 199061 bytes
+(epstopdf)                    date: 2024-12-17 17:22:06
+(epstopdf)                    size: 199023 bytes
 (epstopdf)             Output file: <Figures/ekman_profsyr_roty_500_T-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2024-12-04 09:53:01
-(epstopdf)                    size: 12386 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/ekman_profsyr_roty
 _500_T-eps-converted-to.pdf Figures/ekman_profsyr_roty_500_T.eps>
 (epstopdf)             \includegraphics on input line 801.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ekman_profsyr_roty_500_T-eps-converted-to.pdf, id=183, 551.05875pt x 4
+runsystem(repstopdf --outfile=Figures/ekman_profsyr_roty_500_T-eps-converted-to
+.pdf Figures/ekman_profsyr_roty_500_T.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <Figures/ekman_profsyr_roty_500_T-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2024-12-17 17:22:13
+(epstopdf)                    size: 12369 bytes.
+<Figures/ekman_profsyr_roty_500_T-eps-converted-to.pdf, id=161, 551.05875pt x 4
 42.65375pt>
 File: Figures/ekman_profsyr_roty_500_T-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -3394,17 +3416,21 @@ Package pdftex.def Info: Figures/ekman_profsyr_roty_500_T-eps-converted-to.pdf
  used on input line 801.
 (pdftex.def)             Requested size: 142.26378pt x 114.27673pt.
 Package epstopdf Info: Source file: <Figures/ekman_profsyd_roty_500_T.eps>
-(epstopdf)                    date: 2024-12-04 09:52:25
-(epstopdf)                    size: 191526 bytes
+(epstopdf)                    date: 2024-12-17 17:22:06
+(epstopdf)                    size: 191490 bytes
 (epstopdf)             Output file: <Figures/ekman_profsyd_roty_500_T-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2024-12-04 09:53:01
-(epstopdf)                    size: 11177 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/ekman_profsyd_roty
 _500_T-eps-converted-to.pdf Figures/ekman_profsyd_roty_500_T.eps>
 (epstopdf)             \includegraphics on input line 802.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ekman_profsyd_roty_500_T-eps-converted-to.pdf, id=184, 551.05875pt x 4
+runsystem(repstopdf --outfile=Figures/ekman_profsyd_roty_500_T-eps-converted-to
+.pdf Figures/ekman_profsyd_roty_500_T.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <Figures/ekman_profsyd_roty_500_T-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2024-12-17 17:22:14
+(epstopdf)                    size: 11175 bytes.
+<Figures/ekman_profsyd_roty_500_T-eps-converted-to.pdf, id=162, 551.05875pt x 4
 42.65375pt>
 File: Figures/ekman_profsyd_roty_500_T-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -3412,20 +3438,31 @@ pdf)
 Package pdftex.def Info: Figures/ekman_profsyd_roty_500_T-eps-converted-to.pdf 
  used on input line 802.
 (pdftex.def)             Requested size: 142.26378pt x 114.27673pt.
+
+LaTeX Warning: Reference `tab:runs' on page 1 undefined on input line 824.
+
+
+LaTeX Warning: Reference `tab:runs' on page 1 undefined on input line 824.
+
 Package epstopdf Info: Source file: <Figures/ekman_profsyr_roty_500_T_alternati
 ve.eps>
-(epstopdf)                    date: 2024-12-04 09:52:25
-(epstopdf)                    size: 196292 bytes
+(epstopdf)                    date: 2024-12-17 17:22:06
+(epstopdf)                    size: 196291 bytes
 (epstopdf)             Output file: <Figures/ekman_profsyr_roty_500_T_alternati
 ve-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-12-04 09:53:02
-(epstopdf)                    size: 11580 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/ekman_profsyr_roty
 _500_T_alternative-eps-converted-to.pdf Figures/ekman_profsyr_roty_500_T_altern
 ative.eps>
 (epstopdf)             \includegraphics on input line 831.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ekman_profsyr_roty_500_T_alternative-eps-converted-to.pdf, id=187, 551
+runsystem(repstopdf --outfile=Figures/ekman_profsyr_roty_500_T_alternative-eps-
+converted-to.pdf Figures/ekman_profsyr_roty_500_T_alternative.eps)...executed s
+afely (allowed).
+
+Package epstopdf Info: Result file: <Figures/ekman_profsyr_roty_500_T_alternati
+ve-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-12-17 17:22:14
+(epstopdf)                    size: 11601 bytes.
+<Figures/ekman_profsyr_roty_500_T_alternative-eps-converted-to.pdf, id=163, 551
 .05875pt x 442.65375pt>
 File: Figures/ekman_profsyr_roty_500_T_alternative-eps-converted-to.pdf Graphic
  file (type pdf)
@@ -3435,18 +3472,23 @@ rted-to.pdf  used on input line 831.
 (pdftex.def)             Requested size: 142.26378pt x 114.27673pt.
 Package epstopdf Info: Source file: <Figures/ekman_profsyd_roty_500_T_alternati
 ve.eps>
-(epstopdf)                    date: 2024-12-04 09:52:25
-(epstopdf)                    size: 190859 bytes
+(epstopdf)                    date: 2024-12-17 17:22:06
+(epstopdf)                    size: 190854 bytes
 (epstopdf)             Output file: <Figures/ekman_profsyd_roty_500_T_alternati
 ve-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-12-04 09:53:02
-(epstopdf)                    size: 10868 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/ekman_profsyd_roty
 _500_T_alternative-eps-converted-to.pdf Figures/ekman_profsyd_roty_500_T_altern
 ative.eps>
 (epstopdf)             \includegraphics on input line 832.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/ekman_profsyd_roty_500_T_alternative-eps-converted-to.pdf, id=188, 551
+runsystem(repstopdf --outfile=Figures/ekman_profsyd_roty_500_T_alternative-eps-
+converted-to.pdf Figures/ekman_profsyd_roty_500_T_alternative.eps)...executed s
+afely (allowed).
+
+Package epstopdf Info: Result file: <Figures/ekman_profsyd_roty_500_T_alternati
+ve-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-12-17 17:22:14
+(epstopdf)                    size: 10892 bytes.
+<Figures/ekman_profsyd_roty_500_T_alternative-eps-converted-to.pdf, id=164, 551
 .05875pt x 442.65375pt>
 File: Figures/ekman_profsyd_roty_500_T_alternative-eps-converted-to.pdf Graphic
  file (type pdf)
@@ -3454,18 +3496,24 @@ File: Figures/ekman_profsyd_roty_500_T_alternative-eps-converted-to.pdf Graphic
 Package pdftex.def Info: Figures/ekman_profsyd_roty_500_T_alternative-eps-conve
 rted-to.pdf  used on input line 832.
 (pdftex.def)             Requested size: 142.26378pt x 114.27673pt.
+
+LaTeX Warning: Reference `tab:runs' on page 1 undefined on input line 854.
+
+
+LaTeX Warning: Reference `tab:runs' on page 1 undefined on input line 854.
+
 Package epstopdf Info: Source file: <Figures/ch_azimuth_global_500.eps>
-(epstopdf)                    date: 2024-12-03 16:29:36
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 229757 bytes
 (epstopdf)             Output file: <Figures/ch_azimuth_global_500-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2024-12-04 11:16:38
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 20456 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/ch_azimuth_global_
 500-eps-converted-to.pdf Figures/ch_azimuth_global_500.eps>
 (epstopdf)             \includegraphics on input line 861.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/ch_azimuth_global_500-eps-converted-to.pdf, id=191, 599.23875pt x 587.
+<Figures/ch_azimuth_global_500-eps-converted-to.pdf, id=165, 599.23875pt x 587.
 19376pt>
 File: Figures/ch_azimuth_global_500-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -3474,17 +3522,17 @@ Package pdftex.def Info: Figures/ch_azimuth_global_500-eps-converted-to.pdf  us
 ed on input line 861.
 (pdftex.def)             Requested size: 113.81102pt x 111.52316pt.
 Package epstopdf Info: Source file: <Figures/ch_azimuth_local_500.eps>
-(epstopdf)                    date: 2024-12-03 16:29:36
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 231305 bytes
 (epstopdf)             Output file: <Figures/ch_azimuth_local_500-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2024-12-04 11:16:39
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 21822 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/ch_azimuth_local_5
 00-eps-converted-to.pdf Figures/ch_azimuth_local_500.eps>
 (epstopdf)             \includegraphics on input line 862.
 Package epstopdf Info: Output file is already uptodate.
-<Figures/ch_azimuth_local_500-eps-converted-to.pdf, id=192, 599.23875pt x 587.1
+<Figures/ch_azimuth_local_500-eps-converted-to.pdf, id=166, 599.23875pt x 587.1
 9376pt>
 File: Figures/ch_azimuth_local_500-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -3493,17 +3541,23 @@ Package pdftex.def Info: Figures/ch_azimuth_local_500-eps-converted-to.pdf  use
 d on input line 862.
 (pdftex.def)             Requested size: 113.81102pt x 111.52316pt.
 Package epstopdf Info: Source file: <Figures/sra_azimuth_local_500.eps>
-(epstopdf)                    date: 2024-12-04 13:02:04
-(epstopdf)                    size: 217664 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 217845 bytes
 (epstopdf)             Output file: <Figures/sra_azimuth_local_500-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2024-12-04 13:03:57
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 15823 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures/sra_azimuth_local_
 500-eps-converted-to.pdf Figures/sra_azimuth_local_500.eps>
 (epstopdf)             \includegraphics on input line 863.
-Package epstopdf Info: Output file is already uptodate.
-<Figures/sra_azimuth_local_500-eps-converted-to.pdf, id=193, 599.23875pt x 587.
+runsystem(repstopdf --outfile=Figures/sra_azimuth_local_500-eps-converted-to.pd
+f Figures/sra_azimuth_local_500.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <Figures/sra_azimuth_local_500-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2024-12-17 17:22:15
+(epstopdf)                    size: 15875 bytes.
+<Figures/sra_azimuth_local_500-eps-converted-to.pdf, id=167, 599.23875pt x 587.
 19376pt>
 File: Figures/sra_azimuth_local_500-eps-converted-to.pdf Graphic file (type pdf
 )
@@ -3511,13 +3565,19 @@ File: Figures/sra_azimuth_local_500-eps-converted-to.pdf Graphic file (type pdf
 Package pdftex.def Info: Figures/sra_azimuth_local_500-eps-converted-to.pdf  us
 ed on input line 863.
 (pdftex.def)             Requested size: 113.81102pt x 111.52316pt.
+
+LaTeX Warning: Reference `tab:runs' on page 1 undefined on input line 873.
+
+
+LaTeX Warning: Reference `tab:runs' on page 1 undefined on input line 873.
+
 Package epstopdf Info: Source file: <Figures//sra_global_500.eps>
-(epstopdf)                    date: 2024-12-06 12:09:25
-(epstopdf)                    size: 188092 bytes
+(epstopdf)                    date: 2024-12-17 17:13:22
+(epstopdf)                    size: 188121 bytes
 (epstopdf)             Output file: <Figures//sra_global_500-eps-converted-to.p
 df>
-(epstopdf)                    date: 2024-12-06 12:06:54
-(epstopdf)                    size: 8000 bytes
+(epstopdf)                    date: 2024-12-17 17:09:36
+(epstopdf)                    size: 7921 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures//sra_global_500-ep
 s-converted-to.pdf Figures//sra_global_500.eps>
 (epstopdf)             \includegraphics on input line 879.
@@ -3526,9 +3586,9 @@ res//sra_global_500.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <Figures//sra_global_500-eps-converted-to.p
 df>
-(epstopdf)                    date: 2024-12-06 12:10:09
-(epstopdf)                    size: 7921 bytes.
-<Figures//sra_global_500-eps-converted-to.pdf, id=196, 731.73375pt x 587.19376p
+(epstopdf)                    date: 2024-12-17 17:22:15
+(epstopdf)                    size: 7906 bytes.
+<Figures//sra_global_500-eps-converted-to.pdf, id=168, 731.73375pt x 587.19376p
 t>
 File: Figures//sra_global_500-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures//sra_global_500-eps-converted-to.pdf>
@@ -3536,21 +3596,16 @@ Package pdftex.def Info: Figures//sra_global_500-eps-converted-to.pdf  used on
 input line 879.
 (pdftex.def)             Requested size: 149.37697pt x 119.86478pt.
 Package epstopdf Info: Source file: <Figures//ch_cf_500.eps>
-(epstopdf)                    date: 2024-12-06 12:09:18
+(epstopdf)                    date: 2024-12-17 17:09:36
 (epstopdf)                    size: 200495 bytes
 (epstopdf)             Output file: <Figures//ch_cf_500-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-12-06 12:06:55
-(epstopdf)                    size: 9862 bytes
+(epstopdf)                    date: 2024-12-17 17:09:36
+(epstopdf)                    size: 9731 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figures//ch_cf_500-eps-con
 verted-to.pdf Figures//ch_cf_500.eps>
 (epstopdf)             \includegraphics on input line 880.
-runsystem(repstopdf --outfile=Figures//ch_cf_500-eps-converted-to.pdf Figures//
-ch_cf_500.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <Figures//ch_cf_500-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-12-06 12:10:10
-(epstopdf)                    size: 9731 bytes.
-<Figures//ch_cf_500-eps-converted-to.pdf, id=197, 731.73375pt x 587.19376pt>
+Package epstopdf Info: Output file is already uptodate.
+<Figures//ch_cf_500-eps-converted-to.pdf, id=169, 731.73375pt x 587.19376pt>
 File: Figures//ch_cf_500-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures//ch_cf_500-eps-converted-to.pdf>
 Package pdftex.def Info: Figures//ch_cf_500-eps-converted-to.pdf  used on input
@@ -3722,17 +3777,29 @@ d-to.pdf>] (./paper.aux)
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.45pt have occurred.
 
-Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: 02BA426AEE23FAD136AE0F683A1A39CA;583.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `paper.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `paper.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  02BA426AEE23FAD136AE0F683A1A39CA;583.
  ) 
 Here is how much of TeX's memory you used:
- 27768 strings out of 478287
- 530298 string characters out of 5849288
- 887493 words of memory out of 5000000
- 45257 multiletter control sequences out of 15000+600000
+ 27762 strings out of 478287
+ 530240 string characters out of 5849289
+ 874594 words of memory out of 5000000
+ 45251 multiletter control sequences out of 15000+600000
  579628 words of font info for 192 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,13n,89p,960b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,13n,89p,960b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/sh
 are/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/share/texlive
 /texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/share/texlive/texmf-dist
@@ -3748,10 +3815,10 @@ exmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/newtx/ztmb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on paper.pdf (16 pages, 39631409 bytes).
+Output written on paper.pdf (16 pages, 39965656 bytes).
 PDF statistics:
- 1115 PDF objects out of 1200 (max. 8388607)
- 829 compressed objects within 9 object streams
+ 1091 PDF objects out of 1200 (max. 8388607)
+ 809 compressed objects within 9 object streams
  43 named destinations out of 1000 (max. 500000)
- 863 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 823 words of extra memory for PDF output out of 10000 (max. 10000000)
 
