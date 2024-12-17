@@ -28,14 +28,18 @@
 \newcommand\St{\mbox{\textit{St}}}  % Strouhal number
 \newcommand\Ro{\mbox{\textit{Ro}}}  % Strouhal number
 
+\definecolor{black}{rgb}{0.0, 0.0, 0.0}
 \definecolor{green}{rgb}{0.0, 0.5019607843137255, 0.0}
 \definecolor{cyan}{rgb}{0.0, 1.0, 1.0}
 \definecolor{orange}{rgb}{1.0, 0.6470588235294118, 0.0}
 \definecolor{red}{rgb}{1.0, 0.0, 0.0}
 \definecolor{purple}{rgb}{0.5019607843137255, 0.0, 0.5019607843137255}
-\definecolor{black}{rgb}{0.0,0.0,0.0}
-\definecolor{magenta}{rgb}{1.0,0.0,1.0}
-\definecolor{blue}{rgb}{0.0,0.0,1.0}
+\definecolor{magenta}{rgb}{1.0, 0.0, 1.0}
+\definecolor{blue}{rgb}{0.0, 0.0, 1.0}
+\definecolor{pink}{rgb}{1.0, 0.75, 0.8}
+\definecolor{violet}{rgb}{0.56, 0.0, 1.0}
+\definecolor{darkgreen}{rgb}{0.0, 0.392, 0.0}
+
 
 % {\MakeUppercase{\romannumeral #1}}
 
@@ -65,7 +69,7 @@
 			length, and $u_b$ is the bulk velocity. 
 			$\mathbf{\Omega}$ is the angular velocity, and
 			$\mathbf{F}_c$ is the resultant mean Coriolis force.
-			\textcolor{blue}{The Cartesian coordinates $x_1,x_2$ define positions in the cross-stream plane.}}
+			The Cartesian coordinates $x_1,x_2$ define positions in the cross-stream plane.}
 			\label{fig:sketch} 
 	\end{figure}
 	 
@@ -76,23 +80,23 @@
 	 			\toprule 
 	 			$\Rey_b$ & $\Rey_\tau$ & $N$ & $N_z \times N_r \times N_\theta$ & $\lambda \times 10^{-2}$ & Line \\
 	 			\midrule
-	 			17000 & 508  & 0.0078125 &  $769 \times 97 \times 769$ & 2.862& - \\
-	 			17000 & 512  & 0.015625  &  $769 \times 97 \times 769$ & 2.942& - \\
-	 			17000 & 523  & 0.03125   &  $769 \times 97 \times 769$ & 3.030& \textcolor{green}{\rule{0.05\linewidth}{0.75mm}} \\
-	 			17000 & 538  & 0.0625    &  $769 \times 97 \times 769$ & 3.212& \textcolor{cyan}{\rule{0.05\linewidth}{0.75mm}} \\
-	 			17000 & 566  & 0.125     &  $769 \times 97 \times 769$ & 3.553& \textcolor{orange}{\rule{0.05\linewidth}{0.75mm}} \\
-	 			17000 & 610  & 0.25      &  $769 \times 97 \times 769$ & 4.120& \textcolor{red}{\rule{0.05\linewidth}{0.75mm}} \\
-	 			17000 & 642  & 0.375     &  $769 \times 97 \times 769$ & 4.576& \textcolor{purple}{\rule{0.05\linewidth}{0.75mm}} \\
-	 			17000 & 669  & 0.5       &  $769 \times 97 \times 769$ & 4.962& \textcolor{black}{\rule{0.05\linewidth}{0.75mm}} \\
-	 			17000 & 748  & 1.0       &  $769 \times 97 \times 769$ & 6.208& \textcolor{magenta}{\rule{0.05\linewidth}{0.75mm}} \\
-	 			17000 & 856  & 2.0       &  $769 \times 97 \times 769$ & 8.117& \textcolor{blue}{\rule{0.05\linewidth}{0.75mm}} \\
+	 			17000 & 508  & 0.0078125 &  $769 \times 97 \times 769$ & 2.862& \textcolor{green}{\rule{0.05\linewidth}{0.75mm}} \\
+	 			17000 & 512  & 0.015625  &  $769 \times 97 \times 769$ & 2.942& \textcolor{cyan}{\rule{0.05\linewidth}{0.75mm}} \\
+	 			17000 & 523  & 0.03125   &  $769 \times 97 \times 769$ & 3.030& \textcolor{orange}{\rule{0.05\linewidth}{0.75mm}} \\
+	 			17000 & 538  & 0.0625    &  $769 \times 97 \times 769$ & 3.212& \textcolor{red}{\rule{0.05\linewidth}{0.75mm}} \\
+	 			17000 & 566  & 0.125     &  $769 \times 97 \times 769$ & 3.553& \textcolor{purple}{\rule{0.05\linewidth}{0.75mm}} \\
+	 			17000 & 610  & 0.25      &  $769 \times 97 \times 769$ & 4.120& \textcolor{magenta}{\rule{0.05\linewidth}{0.75mm}} \\
+	 			17000 & 642  & 0.375     &  $769 \times 97 \times 769$ & 4.576& \textcolor{blue}{\rule{0.05\linewidth}{0.75mm}} \\
+	 			17000 & 669  & 0.5       &  $769 \times 97 \times 769$ & 4.962& \textcolor{pink}{\rule{0.05\linewidth}{0.75mm}} \\
+	 			17000 & 748  & 1.0       &  $769 \times 97 \times 769$ & 6.208& \textcolor{violet}{\rule{0.05\linewidth}{0.75mm}} \\
+	 			17000 & 856  & 2.0       &  $769 \times 97 \times 769$ & 8.117& \textcolor{darkgreen}{\rule{0.05\linewidth}{0.75mm}} \\
 	 			
 	 			\midrule
 	 			44000  & 1405  & 0.5  & $1793 \times 165 \times 1793$ & 3.262& -\\
 	 			\midrule
 	 			82500  & 2379  & 0.5  & $3073 \times 244 \times 3073$ & 2.662& -\\
 	 			\midrule
-	 			133000 & 3634  & 0.5  & $4609 \times 328 \times 4609$ & 2.389& \textcolor{black}{\rule{0.05\linewidth}{0.75mm}}\\
+	 			133000 & 3634  & 0.5  & $4609 \times 328 \times 4609$ & 2.389& -\\
 	 			\bottomrule
 	 		\end{tabular}
 	 		\caption{Flow parameters for DNS of rotating pipe flow.
@@ -138,7 +142,7 @@
 			of each sub-panel.
 			Various rotation numbers are considered:
                         (a) $N = 0.0$,
-                        (b) $N = 0.0.078125$,
+                        (b) $N = 0.0078125$,
                         (c) $N = 0.015625$,
                         (d) $N = 0.0315$,
                         (e) $N = 0.0625$,
@@ -162,7 +166,7 @@
 		(g) \includegraphics[width=2.cm]{Figures/cross_rotz0_roty0.125_T.png}  
 		(h) \includegraphics[width=2.cm]{Figures/cross_rotz0_roty0.1875_T.png} 
 		(i) \includegraphics[width=2.cm]{Figures/cross_rotz0_roty0.25_T.png} 
-                (j) \includegraphics[width=2.cm]{Figures/cross_rotz0_roty0.5_u.png} \\
+                (j) \includegraphics[width=2.cm]{Figures/cross_rotz0_roty0.5_T.png} \\
 		(k) \includegraphics[width=2.cm]{Figures/cross_rotz0_roty1.0_T.png} 
 		\\ \includegraphics[width=0.5\textwidth]{Figures/uz_cmap.eps}
 		\caption{
@@ -174,7 +178,7 @@
 			of each sub-panel.
 			Various rotation numbers are considered:
                         (a) $N = 0.0$,
-                        (b) $N = 0.0.078125$,
+                        (b) $N = 0.0.0078125$,
                         (c) $N = 0.015625$,
                         (d) $N = 0.0315$,
                         (e) $N = 0.0625$,
@@ -232,7 +236,7 @@
 			The insets in the top-right corner of each panel report magnified views of a small portion of the shell.
 			Various rotation numbers are considered:
                         (a) $N = 0.0$,
-                        (b) $N = 0.078125$,
+                        (b) $N = 0.0078125$,
                         (c) $N = 0.015625$,
                         (d) $N = 0.0315$,
                         (e) $N = 0.0625$,
@@ -268,7 +272,7 @@
 			The insets in the top-right corner of each panel report magnified views of a small portion of the shell.
 			Various rotation numbers are considered:
                         (a) $N = 0.0$,
-			(b) $N = 0.078125$,
+			(b) $N = 0.0078125$,
                         (c) $N = 0.015625$,
                         (d) $N = 0.0315$,
                         (e) $N = 0.0625$,
@@ -304,7 +308,7 @@
 			of each sub-panel.
 			Various rotation numbers are considered:
                         (a) $N = 0.0$,
-                        (b) $N = 0.0.078125$,
+                        (b) $N = 0.0078125$,
                         (c) $N = 0.015625$,
                         (d) $N = 0.0315$,
                         (e) $N = 0.0625$,
@@ -341,7 +345,7 @@
                         of each sub-panel.
                         Various rotation numbers are considered:
                         (a) $N = 0.0$,
-                        (b) $N = 0.0.078125$,
+                        (b) $N = 0.0078125$,
                         (c) $N = 0.015625$,
                         (d) $N = 0.0315$,
                         (e) $N = 0.0625$,
@@ -421,7 +425,7 @@
 		Only the interval $\theta = [0^{\circ},90^{\circ}]$ is shown, at stations
 		spaced $7.5^\circ$ apart, with negative values of $r$ signifying profiles
 		taken at $\theta + 180^{\circ}$.
-                (a) $N = 0.0.078125$,
+                (a) $N = 0.0078125$,
                 (b) $N = 0.015625$,
                 (c) $N = 0.0315$,
                 (d) $N = 0.0625$,
@@ -458,7 +462,7 @@
                 Only the interval $\theta = [0^{\circ},90^{\circ}]$ is shown, at stations
                 spaced $7.5^\circ$ apart, with negative values of $r$ signifying profiles
                 taken at $\theta + 180^{\circ}$.
-                (a) $N = 0.0.078125$,
+                (a) $N = 0.0078125$,
                 (b) $N = 0.015625$,
                 (c) $N = 0.0315$,
                 (d) $N = 0.0625$,
@@ -495,7 +499,7 @@
 		$7.5^\circ$ apart,
 		for flow cases at $\Rey_b=17000$.
 		Only the interval $\theta = [0^{\circ},180^{\circ}]$ is shown.
-    	        (a) $N = 0.0.078125$,
+    	        (a) $N = 0.0078125$,
                 (b) $N = 0.015625$,
                 (c) $N = 0.0315$,
                 (d) $N = 0.0625$,
@@ -533,7 +537,7 @@
                 $7.5^\circ$ apart,
                 for flow cases at $\Rey_b=17000$.
                 Only the interval $\theta = [0^{\circ},180^{\circ}]$ is shown.
-                (a) $N = 0.0.078125$,
+                (a) $N = 0.0078125$,
                 (b) $N = 0.015625$,
                 (c) $N = 0.0315$,
                 (d) $N = 0.0625$,
@@ -571,7 +575,7 @@
                 $7.5^\circ$ apart,
                 for flow cases at $\Rey_b=17000$.
                 Only the interval $\theta = [0^{\circ},180^{\circ}]$ is shown.
-                (a) $N = 0.0.078125$,
+                (a) $N = 0.0078125$,
                 (b) $N = 0.015625$,
                 (c) $N = 0.0315$,
                 (d) $N = 0.0625$,
@@ -584,7 +588,7 @@
                 The black solid line denotes the mean axial velocity profile in the
                 non-rotating case.
                 The dashed gray lines depict the compound law-of-the wall
-                $U^+=y^+$, $U^+=\log y^+/0.387 + 4.53$.
+                $U^*=y^*$, $U^*=\log y^*/0.387 + 4.53$.
         }
                 \label{fig:ustar}
         \end{figure}
@@ -609,7 +613,7 @@
                 $7.5^\circ$ apart,
                 for flow cases at $\Rey_b=17000$.
                 Only the interval $\theta = [0^{\circ},180^{\circ}]$ is shown.
-                (a) $N = 0.0.078125$,
+                (a) $N = 0.0078125$,
                 (b) $N = 0.015625$,
                 (c) $N = 0.0315$,
                 (d) $N = 0.0625$,
@@ -622,7 +626,7 @@
                 The black solid line denotes the mean temperature profile in the
                 non-rotating case.
                 The dashed gray lines depict the compound law-of-the wall
-		$\theta^{+}=y^+$, $\theta^{+}=\log y^+/0.387 + 4.53$.
+		$\theta^{*}=y^*$, $\theta^{*}=\log y^*/0.387 + 4.53$.
         }
                 \label{fig:tstar}
         \end{figure}
@@ -648,14 +652,16 @@
                Only the interval $\theta = [0^{\circ},90^{\circ}]$ is shown, at stations
                spaced $7.5^\circ$ apart, with negative values of $r$ signifying profiles
                taken at $\theta + 180^{\circ}$.
-               (a) $N = 0.03125$,
-               (b) $N = 0.5$,
-               (c) $N = 2.0$,
-               (d) $N = 8.0$.
-               (e) $N = 0.1$,
-               (f) $N = 0.5$,
-               (g) $N = 2.0$,
-               (h) $N = 16.0$.
+               (a) $N = 0.0078125$,
+               (b) $N = 0.015625$,
+               (c) $N = 0.0315$,
+               (d) $N = 0.0625$,
+               (e) $N = 0.125$
+               (f) $N = 0.25$,
+               (g) $N = 0.375$,
+               (h) $N = 0.5$,
+               (i) $N = 1.0$,
+               (j) $N = 2.0$. 
                The black solid line denotes the mean turbulence kinetic energy profile in the
                non-rotating case.
                }
@@ -683,15 +689,17 @@
                Only the interval $\theta = [0^{\circ},90^{\circ}]$ is shown, at stations
                spaced $7.5^\circ$ apart, with negative values of $r$ signifying profiles
                taken at $\theta + 180^{\circ}$.
-               (a) $N = 0.03125$,
-               (b) $N = 0.5$,
-               (c) $N = 2.0$,
-               (d) $N = 8.0$.
-               (e) $N = 0.1$,
-               (f) $N = 0.5$,
-               (g) $N = 2.0$,
-               (h) $N = 16.0$.
-               The black solid line denotes the Reynolds shear stress profile in the
+               (a) $N = 0.0078125$,
+               (b) $N = 0.015625$,
+               (c) $N = 0.0315$,
+               (d) $N = 0.0625$,
+               (e) $N = 0.125$
+               (f) $N = 0.25$,
+               (g) $N = 0.375$,
+               (h) $N = 0.5$,
+               (i) $N = 1.0$,
+               (j) $N = 2.0$.
+	       The black solid line denotes the Reynolds shear stress profile in the
                non-rotating case.
                }
                \label{fig:rss}
@@ -753,38 +761,131 @@
 %		\label{fig:tke}
 %	\end{figure}
 %	 
-%	\begin{figure}
-%    	\centering
-%		\begin{tabular}{lll}
-%		\includegraphics[width=4.cm]{Figures/ekman_uz_utheta_500.eps} &
-%		\includegraphics[width=4.cm]{Figures/ekman_angle_500.eps} &
-%		\includegraphics[width=4.cm]{Figures/ekman_spiral_500.eps} \\
-%		(a) & (b) & (c) \\	
-%		\end{tabular}
-%    	\caption{
-%    		Profiles of 
-%		mean axial ($U_z$) and azimuthal ($U_\theta$) velocity
-%		(a), wall-parallel flow angle $\varphi = \tan^{-1} (U_{\theta}/U_z)$ (b) 
-%		and hodograph diagram (c) 
-%		at the polar coordinate $\theta = \pi/2$ (north pole of the pipe).
-%		Data are shown for $\Rey_b=17000$, at various rotation numbers:
-%    		$N = 0.03125$,
-%    		$N = 0.0625$,
-%    		$N = 0.125$,
-%    		$N = 0.25$,
-%    		$N = 0.5$,
-%    		$N = 2.0$,
-%    		$N = 4.0$,
-%    		$N = 8.0$,
-%		see table~\ref{tab:runs} for the color codes.
-%    		The velocity profiles are scaled by the 
-%    		mean centreline axial velocity $U_{0}$.
-%    		The black circles denote the analytical solution 
-%		for a laminar Ekman layer~\citep{greenspan1968}.
-%    	}
-%		\label{fig:Ekman_500}
-%	\end{figure}
-%	 
+	\begin{figure}
+    	\centering
+		\begin{tabular}{lll}
+		\includegraphics[width=4.cm]{Figures/ekman_profsy_roty_500_u.eps} &
+		\includegraphics[width=4.cm]{Figures/ekman_angles_roty_500_u.eps} &
+		\includegraphics[width=4.cm]{Figures/ekman_spiral_roty_500_u.eps} \\
+		(a) & (b) & (c) \\	
+		\end{tabular}
+    	\caption{
+    		Profiles of 
+		mean axial ($U_z$) and azimuthal ($U_\theta$) velocity
+		(a), wall-parallel flow angle $\varphi = \tan^{-1} (U_{\theta}/U_z)$ (b) 
+		and hodograph diagram (c) 
+		at the polar coordinate $\theta = \pi/2$ (north pole of the pipe).
+		Data are shown for $\Rey_b=17000$, at various rotation numbers:
+    		(a) $N = 0.0078125$,
+                (b) $N = 0.015625$,
+                (c) $N = 0.0315$,
+                (d) $N = 0.0625$,
+                (e) $N = 0.125$
+                (f) $N = 0.25$,
+                (g) $N = 0.375$,
+                (h) $N = 0.5$,
+                (i) $N = 1.0$,
+                (j) $N = 2.0$.
+		see table~\ref{tab:runs} for the color codes.
+    		The velocity profiles are scaled by the 
+    		mean centreline axial velocity $U_{0}$.
+    		The black circles denote the analytical solution 
+		for a laminar Ekman layer~\citep{greenspan1968}.
+    	}
+		\label{fig:Ekman_500}
+	\end{figure}
+
+        \begin{figure}
+        \centering
+                \begin{tabular}{ll}
+                \includegraphics[width=5.cm]{Figures/ekman_profsyr_roty_500_T.eps} &
+                \includegraphics[width=5.cm]{Figures/ekman_profsyd_roty_500_T.eps} \\ 
+			(a) & (b) \\
+                \end{tabular}
+        \caption{
+                Profiles of
+		the temperature $\Theta$ plotted at the poles of the pipe
+                as a function of the radial coordinate normalised by the pipe radius (a) and the wall normal coordinate
+                normalised by the local Ekman layer thickness (b).
+                Data are shown for $\Rey_b=17000$, at various rotation numbers:
+                (a) $N = 0.0078125$,
+                (b) $N = 0.015625$,
+                (c) $N = 0.0315$,
+                (d) $N = 0.0625$,
+                (e) $N = 0.125$
+                (f) $N = 0.25$,
+                (g) $N = 0.375$,
+                (h) $N = 0.5$,
+                (i) $N = 1.0$,
+                (j) $N = 2.0$.
+		see table~\ref{tab:runs} for the color codes.
+                The temperature profiles are scaled by the
+                temperature at the center of the pipe $T_{CL}$.
+        }
+                \label{fig:Ekman_T_500}
+        \end{figure}
+
+        \begin{figure}
+        \centering
+                \begin{tabular}{ll}
+                \includegraphics[width=5.cm]{Figures/ekman_profsyr_roty_500_T_alternative.eps} &
+		\includegraphics[width=5.cm]{Figures/ekman_profsyd_roty_500_T_alternative.eps} \\
+                (a) & (b) \\
+                \end{tabular}
+        \caption{
+                Profiles of
+		the temperature $\Theta$ plotted at the poles of the pipe 
+		as a function of the radial coordinate normalised by the pipe radius (a) and the wall normal coordinate 
+		normalised by the local Ekman layer thickness (b).  
+                Data are shown for $\Rey_b=17000$, at various rotation numbers:
+                (a) $N = 0.0078125$,
+                (b) $N = 0.015625$,
+                (c) $N = 0.0315$,
+                (d) $N = 0.0625$,
+                (e) $N = 0.125$
+                (f) $N = 0.25$,
+                (g) $N = 0.375$,
+                (h) $N = 0.5$,
+                (i) $N = 1.0$,
+                (j) $N = 2.0$.
+                see table~\ref{tab:runs} for the color codes.
+                The temperature profiles are scaled by the
+		temperature taken at the edge of the Ekman layer $T_{6\Delta}$.
+        }
+                \label{fig:Ekman_T_6delta_500}
+        \end{figure}
+
+	\begin{figure}
+                \centering
+                \begin{tabular}{lll}
+		\includegraphics[width=4cm]{Figures/ch_azimuth_global_500.eps} &
+		\includegraphics[width=4cm]{Figures/ch_azimuth_local_500.eps} &
+                \includegraphics[width=4cm]{Figures/sra_azimuth_local_500.eps} \\
+		(a) & (b) & (c) \\
+                \end{tabular}
+                \caption{
+			Polar distribution of the ratio of the local Stanton number and the global Stanton number (a), 
+			polar distribution of the local Stanton number (b)  
+			and polar distribution of the local Strong Reynolds Analogy factor (c), at $\Rey_b=17000$.
+                        The color codes correspond to different values of $N$,
+                        as given in table~\ref{tab:runs},
+                        black denoting cases without rotation.
+                        }
+                        \label{fig:Ch__azimuth_polar}
+        \end{figure}
+
+	\begin{figure}
+                \centering
+                (a) \includegraphics[width=5.25cm]{Figures//sra_global_500.eps}
+                (b) \includegraphics[width=5.25cm]{Figures//ch_cf_500.eps} \\
+                \caption{
+			On the left the global Strong Reynolds Analogy factor as function of the rotation number $N$ (a) 
+			and on the right the global Stanton number and friction coefficient as function of the rotation number (b).
+                        }
+                        \label{fig:Ch_Cf}
+        \end{figure}
+
+
 %	\begin{figure}
 %		\centering
 %		\begin{tabular}{lll}
@@ -841,7 +942,8 @@
 %		as a function of wall distance normalised by the local Ekman layer thickness,
 %		$\Delta = (\nu/(\Omega \sin \theta))^{1/2}$,
 %		at $\Rey_b=17000$, $N=8$ (a), and $\Rey_b=133000$, $N=16$ (b).
-%		Profiles along the pipe perimeter are shown in intervals of $7.5^{\circ}$, with exception of $\theta=0^{\circ}$, $\theta=180^{\circ}$.
+%		Profiles along the pipe perimeter are shown in intervals of $7.5^{\circ}$, 
+%		with exception of $\theta=0^{\circ}$, $\theta=180^{\circ}$.
 %		}
 %		\label{fig:Uznorm} 
 %	\end{figure}
